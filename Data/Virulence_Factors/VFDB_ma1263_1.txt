@@ -1,0 +1,134 @@
+Aug_1-7584423423											
+VFclass	Virulence factors	Related genes	ma1263_1(Prediction)	S.aureus RF122 	S.aureus subsp. aureus MRSA252 	S.aureus subsp. aureus MW2 	S.aureus subsp. aureus USA300_TCH1516 	S.epidermidis ATCC 12228 	S.epidermidis RP62A 	S.haemolyticus JCSC1435 	S.saprophyticus subsp. saprophyticus ATCC 15305 
+			draft (draft)	chromosome (NC_007622)	chromosome (NC_002952)	chromosome (NC_003923)	chromosome (NC_010079)	chromosome (NC_004461)	chromosome (NC_002976)	chromosome (NC_007168)	chromosome (NC_007350)
+Adherence	Autolysin	atl	DICBIALG_02034	SAB0919c	SAR1026	MW0936	USA300HOU_0997	SE0750	SERP0636	SH1911	SSP1741
+	Cell wall associated fibronectin binding protein	ebh	-	SAB1289c*	SAR1447	MW1324	USA300HOU_1372	SE1128	SERP1011	-	-
+	Clumping factor A	clfA	-	SAB0744*	SAR0842	MW0764	USA300HOU_0819	-	-	-	-
+	Clumping factor B	clfB	-	SAB2505c	SAR2709	MW2551	USA300HOU_2630	-	-	-	-
+	Collagen adhesion	cna	-	-	SAR2774	MW2612	-	-	-	-	-
+	Elastin binding protein	ebp	DICBIALG_01588	SAB1343c	SAR1489	MW1369	USA300HOU_1419	SE1169	SERP1048	SH1431	SSP1266
+	Extracellular adherence protein/MHC analogous protein	eap/map	-	SAB1873c	SAR2030	MW1880*	USA300HOU_1942	-	-	-	-
+	Fibrinogen binding protein	efb	-	SAB1021	SAR1130	MW1040	USA300HOU_1094	-	-	-	-
+	Fibronectin binding proteins	fnbA	-	SAB2375c	SAR2580	MW2421	USA300HOU_2491	-	-	-	-
+		fnbB	-	-	-	MW2420	USA300HOU_2490	-	-	-	-
+	Intercellular adhesin	icaA	DICBIALG_00315	SAB2541	SAR2747	MW2586	USA300HOU_2666	-	SERP2293	-	-
+		icaB	DICBIALG_00313	SAB2543	SAR2749	MW2588	USA300HOU_2668	-	SERP2295	-	-
+		icaC	DICBIALG_00312	SAB2544	SAR2750	MW2589	USA300HOU_2669	-	SERP2296	-	-
+		icaD	-	SAB2542	SAR2748	MW2587	USA300HOU_2667	-	SERP2294	-	-
+		icaR	-	SAB2540c	SAR2746	MW2585	USA300HOU_2665	-	SERP2292	-	-
+	Ser-Asp rich fibrinogen-binding proteins	sdrC	-	SAB0512*	SAR0566	MW0516	USA300HOU_0555	-	-	-	-
+		sdrD	-	-	-	MW0517	USA300HOU_0556	-	-	-	-
+		sdrE	DICBIALG_02522	SAB0513	SAR0567	MW0518	USA300HOU_0557	-	-	-	-
+		sdrF	-	-	-	-	-	SE2395	SERP0026*	-	-
+		sdrG	-	-	-	-	-	SE0331	SERP0207	-	-
+		sdrH	-	-	-	-	-	SE1632	SERP1487	-	-
+	Staphylococcal protein A	spa	-	SAB0050c*	SAR0114	MW0084	USA300HOU_0122	-	-	-	-
+Enzyme	Cysteine protease	sspB	DICBIALG_00471	SAB0914c	SAR1021	MW0931	USA300HOU_0995	SE0184	SERP2390	-	-
+		sspC	DICBIALG_00470	SAB0913c	SAR1020	MW0930	USA300HOU_0994	-	-	-	-
+	Hyaluronate lyase	hysA	-	SAB2082	SAR2292	MW2129	USA300HOU_2197	-	-	-	-
+	Lipase	geh	-	SAB0257	SAR0317	MW0297	USA300HOU_0340	SE2403	SERP2388	-	SSP0502*
+		lip	DICBIALG_00311; DICBIALG_00455	SAB2546c	SAR2753	MW2590	USA300HOU_2671	SE0281	SERP2297	SH0168	SSP2295*
+	Serine V8 protease	sspA	DICBIALG_00472	SAB0915c	SAR1022	MW0932	USA300HOU_0996	SE1543	SERP1397	-	SSP0282
+	Serine protease	splA	-	-	-	MW1755	USA300HOU_1806	-	-	-	-
+		splB	-	SAB1672c	-	MW1754	USA300HOU_1805	-	-	-	-
+		splC	-	SAB1671c	SAR1906	MW1753	USA300HOU_1804	-	-	-	-
+		splD	-	-	SAR1905	-	USA300HOU_1803	-	-	-	-
+		splE	-	SAB1670c	SAR1902	-	USA300HOU_1802	-	-	-	-
+		splF	-	SAB1669c	SAR1900*	MW1752	USA300HOU_1801	-	-	-	-
+	Staphylocoagulase	coa	-	SAB0169	SAR0222	MW0206	USA300HOU_0238	-	-	-	-
+	Staphylokinase	sak	-	-	SAR2039	MW1885	USA300HOU_1949	-	-	-	-
+	Thermonuclease	nuc	DICBIALG_01754	SAB0748	SAR0847	MW1211	USA300HOU_0823	SE1004	SERP0891	SH1583	SSP1444
+Immune evasion	AdsA	adsA	-	SAB0023	SAR0023	MW0023	USA300HOU_0023	-	-	-	-
+	CHIPS	chp	-	-	SAR2036	-	USA300HOU_1947	-	-	-	-
+	Capsule	Undetermined	DICBIALG_00460; DICBIALG_00461; DICBIALG_00462; DICBIALG_00463; DICBIALG_00464; DICBIALG_00465; DICBIALG_00466	SAB0090; SAB0091; SAB0092; SAB0093; SAB0094; SAB0095; SAB0096; SAB0097; SAB0098; SAB0099; SAB0100; SAB0101; SAB0102; SAB0103; SAB0104; SAB0105	SAR0151; SAR0152; SAR0153; SAR0154; SAR0155; SAR0156; SAR0157; SAR0158; SAR0159; SAR0160; SAR0161; SAR0162; SAR0163; SAR0164; SAR0165; SAR0166	MW0124; MW0125; MW0126; MW0127; MW0128; MW0129; MW0130; MW0131; MW0132; MW0133; MW0134; MW0135; MW0136; MW0137; MW0138; MW0139	USA300HOU_0163; USA300HOU_0164; USA300HOU_0165; USA300HOU_0166*; USA300HOU_0167; USA300HOU_0168; USA300HOU_0169*; USA300HOU_0170; USA300HOU_0171; USA300HOU_0172; USA300HOU_0173; USA300HOU_0174; USA300HOU_0175; USA300HOU_0176; USA300HOU_0177; USA300HOU_0178	-	-	SH0388; SH0389; SH0390; SH0391; SH0392; SH0393; SH0394; SH0395; SH0396; SH0397; SH0398; SH0399; SH0400	SSP0060; SSP0061; SSP0062; SSP0063; SSP0064; SSP0065; SSP0066; SSP0067; SSP0068; SSP0069; SSP0070; SSP0071; SSP0072
+	SCIN	scn	-	-	SAR2035	MW1884	USA300HOU_1946	-	-	-	-
+	Sbi	sbi	-	SAB2298	SAR2508	MW2341	USA300HOU_2401	-	-	-	-
+	Polyglutamic acid capsule(Bacillus)	capB	DICBIALG_00611	-	-	-	-	-	-	-	-
+		capC	DICBIALG_00612	-	-	-	-	-	-	-	-
+Secretion system	Type VII secretion system	esaA	-	SAB0224	SAR0280	MW0259	USA300HOU_0298	-	-	-	-
+		esaB	-	SAB0226	SAR0282	MW0261	USA300HOU_0300	-	-	-	-
+		esaD	-	-	-	MW0268	USA300HOU_0307	-	-	-	-
+		esaE	-	SAB0231	-	MW0266	USA300HOU_0305	-	-	-	-
+		esaG	-	SAB0234; SAB0237; SAB0238; SAB0239	SAR0293; SAR0294	MW0269; MW0272; MW0273; MW0274; MW0275; MW0276; MW0277; MW0278; MW0279	USA300HOU_0308; USA300HOU_0312; USA300HOU_0313; USA300HOU_0315; USA300HOU_0317; USA300HOU_0318; USA300HOU_0319; USA300HOU_0320	-	-	-	-
+		essA	-	SAB0225*	SAR0281	MW0260	USA300HOU_0299	-	-	-	-
+		essB	-	SAB0227	SAR0283	MW0262	USA300HOU_0301	-	-	-	-
+		essC	-	SAB0228	SAR0284	MW0263	USA300HOU_0302	-	-	-	-
+		esxA	-	SAB0223	SAR0279	MW0258	USA300HOU_0297	-	-	-	-
+		esxB	-	SAB0230	-	MW0265	USA300HOU_0304	-	-	-	-
+		esxC	-	SAB0229	-	MW0264	USA300HOU_0303	-	-	-	-
+		esxD	-	SAB0232	-	MW0267	USA300HOU_0306	-	-	-	-
+Toxin	Alpha hemolysin	hly/hla	-	SAB1027c	SAR1136*	MW1044	USA300HOU_1099	-	-	-	-
+	Beta hemolysin	hlb	-	SAB1874	SAR2031*	MW1940*	USA300HOU_2010*	SE0008	SERP2544	-	-
+	Delta hemolysin	hld	-	-	SAR2122	MW1959	USA300HOU_2031	SE1634	SERP1489	-	-
+	Enterotoxin A	sea	-	-	SAR2043	MW1889	-	-	-	-	-
+	Enterotoxin B	seb	-	-	-	-	-	-	-	-	-
+	Enterotoxin C	sec	-	SAB0363	-	MW0759	-	-	-	-	-
+	Enterotoxin D	sed	-	-	-		-	-	-	-	-
+	Enterotoxin E	see	-	-	-		-	-	-	-	-
+	Enterotoxin G	seg	-	SAB1696c	SAR1916	-	-	-	-	-	-
+	Enterotoxin H	seh	-	-	-	MW0051	-	-	-	-	-
+	Enterotoxin I	sei	-	SAB1699c	SAR1919	-	-	-	-	-	-
+	Enterotoxin J	sej	-	-	-		-	-	-	-	-
+	Enterotoxin Yent1	yent1	-	-	-	-	-	-	-	-	-
+	Enterotoxin Yent2	yent2	-	-	-	-	-	-	-	-	-
+	Enterotoxin-like K	selk	-	-	-	MW1938	USA300HOU_0851	-	-	-	-
+	Enterotoxin-like L	sell	-	SAB0364c	-	MW0760	-	-	-	-	-
+	Enterotoxin-like M	selm	-	-	SAR1920	-	-	-	-	-	-
+	Enterotoxin-like N	seln	-	SAB1697c	SAR1917	-	-	-	-	-	-
+	Enterotoxin-like O	selo	-	SAB1701c	SAR1921	-	-	-	-	-	-
+	Enterotoxin-like P	selp	-	-	-	-	-	-	-	-	-
+	Enterotoxin-like Q	selq	-	-	-	MW1937	USA300HOU_0852	-	-	-	-
+	Enterotoxin-like R	selr	-	-	-		-	-	-	-	-
+	Enterotoxin-like U	selu	-	SAB1698c	SAR1918	-	-	-	-	-	-
+	Exfoliative toxin type A	eta	-	-	-		-	-	-	-	-
+	Exfoliative toxin type B	etb	-	-	-		-	-	-	-	-
+	Exfoliative toxin type C	etc	-	-	-		-	-	-	-	-
+	Exfoliative toxin type D	etd	-	-	-		-	-	-	-	-
+	Exotoxin	set10	-	-	-	-	-	-	-	-	-
+		set11	-	-	-	-	-	-	-	-	-
+		set12	-	-	-	-	-	-	-	-	-
+		set13	-	-	-	-	-	-	-	-	-
+		set14	-	-	-	-	-	-	-	-	-
+		set15	-	-	-	-	-	-	-	-	-
+		set16	-	SAB0376	-	MW0382	-	-	-	-	-
+		set17	-	SAB0377	-	MW0383	-	-	-	-	-
+		set18	-	SAB0378	-	MW0384	-	-	-	-	-
+		set19	-	-	-	MW0385	-	-	-	-	-
+		set1	-	-	SAR0428	-	-	-	-	-	-
+		set20	-	SAB0379	-	MW0386	-	-	-	-	-
+		set21	-	-	-	MW0387	-	-	-	-	-
+		set22	-	SAB0380	-	MW0388	-	-	-	-	-
+		set23	-	SAB0381	-	MW0389	-	-	-	-	-
+		set24	-	SAB0382	-	MW0390	-	-	-	-	-
+		set25	-	SAB0383	-	MW0391	-	-	-	-	-
+		set26	-	SAB0386	-	MW0394	-	-	-	-	-
+		set2	-	-	SAR0425	-	-	-	-	-	-
+		set30	-	-	-	-	USA300HOU_0422	-	-	-	-
+		set31	-	-	-	-	USA300HOU_0423	-	-	-	-
+		set32	-	-	-	-	USA300HOU_0424	-	-	-	-
+		set33	-	-	-	-	USA300HOU_0426	-	-	-	-
+		set34	-	-	-	-	USA300HOU_0427	-	-	-	-
+		set35	-	-	-	-	USA300HOU_0428	-	-	-	-
+		set36	-	-	-	-	USA300HOU_0429	-	-	-	-
+		set37	-	-	-	-	USA300HOU_0430	-	-	-	-
+		set38	-	-	-	-	USA300HOU_0431	-	-	-	-
+		set39	-	-	-	-	USA300HOU_0432	-	-	-	-
+		set3	-	-	SAR0427	-	-	-	-	-	-
+		set40	-	-	-	-	USA300HOU_0435	-	-	-	-
+		set4	-	-	SAR0431	-	-	-	-	-	-
+		set5	-	-	SAR0429	-	-	-	-	-	-
+		set6	-	-	-	-	-	-	-	-	-
+		set7	-	-	-	-	-	-	-	-	-
+		set8	-	-	-	-	-	-	-	-	-
+		set9	-	-	-	-	-	-	-	-	-
+	Gamma hemolysin	hlgA	-	SAB2300	SAR2509	MW2342	USA300HOU_2402	-	-	-	-
+		hlgB	-	SAB2302	SAR2511	MW2344	USA300HOU_2405	-	-	-	-
+		hlgC	-	SAB2301	SAR2510	MW2343	USA300HOU_2404	-	-	-	-
+	Leukocidin M	lukF-like	-	SAB0783	-	-	-	-	-	-	-
+		lukM	-	SAB0782	-	-	-	-	-	-	-
+	Leukotoxin D	lukD	-	SAB1686c	SAS1748	MW1767	USA300HOU_1817	-	-	-	-
+	Leukotoxin E	lukE	-	SAB1687c	SAS1749	MW1768	USA300HOU_1818	-	-	-	-
+	Panton-Valentine leukocidin	lukF-PV	-	-	-	MW1378	USA300HOU_1430	-	-	-	-
+		lukS-PV	-	-	-	MW1379	USA300HOU_1431	-	-	-	-
+	Toxic shock syndrome toxin	tsst	-	SAB0360c	-	-	-	-	-	-	-
+	Cytolysin(Enterococcus)	cylR2	DICBIALG_00807	-	-	-	-	-	-	-	-

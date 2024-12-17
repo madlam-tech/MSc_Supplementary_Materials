@@ -1,0 +1,22 @@
+##gff-version 3
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	18413	19945	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	20541	23427	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	23625	23735	4.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	213198	214730	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	215326	218212	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	218410	218520	4.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	646035	647567	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	648253	651139	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	651338	651448	4.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	1660697	1662229	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	1662825	1665711	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	1665909	1666019	4.5e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	2941954	2942064	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	2942262	2945148	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	2945834	2947366	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	3071051	3071161	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	3071359	3074245	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	3074931	3076463	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	3559463	3559573	4.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	3559771	3562657	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+gnl|Prokka|GCF_000046845.1_1	barrnap:0.9	rRNA	3563253	3564785	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA

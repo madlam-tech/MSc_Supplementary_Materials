@@ -1,0 +1,312 @@
+Soil.w	Location.w	Sub_site.w	subsite_id.w	state	gps_n	gps_w	altitude	Visibilty.w	Temp.w	soil_condition	Collection_date.w	Day.w	collection_time.w
+1155	MLBS	A1	not applicable	VA	37.37433	-80.52047	1189	overcast	humid	wet	22/05/17	142	0:00
+1156	MLBS	A2	not applicable	VA	37.37447	-80.52031	1181	overcast	humid	wet	22/05/17	142	
+1157	MLBS	B1	not applicable	VA	37.35365	-80.53622	1238	sunny		wet	26/06/17	177	13:44
+1162	MLBS	B2	not applicable	VA	37.3537	-80.53606	1251	overcast	humid	average	4/07/17	185	14:35
+1163	MLBS	C1	not applicable	VA	37.37278	-80.51878	1196	overcast	warm	average	29/05/17	149	15:06
+1164	MLBS	C2	not applicable	VA	37.3729	-80.51879	1192	overcast	warm	average	29/05/17	149	15:11
+1165	MLBS	D1	not applicable	VA	37.37746297	-80.52215796	1181	sunny	cool	average	6/06/17	157	17:26
+1166	MLBS	D2	not applicable	VA	37.37745	-80.52209	1181	sunny	cool	average	7/06/17	158	9:12
+1167	MLBS	A3	Center	VA	37.37446	-80.52032	1182	overcast	humid	wet	22/05/17	142	15:07
+1168	MLBS	A3	1m-North	VA	37.37449	-80.52032	1183	overcast	humid	wet	22/05/17	142	15:16
+1169	MLBS	A3	1m-East	VA	37.37449	-80.52031	1184	overcast	humid	wet	22/05/17	142	15:19
+1170	MLBS	A3	1m-South	VA	37.37447	-80.52033	1187	overcast	humid	wet	22/05/17	142	15:24
+1171	MLBS	A3	1m-West	VA	37.37447	-80.52035	1186	overcast	humid	wet	22/05/17	142	15:29
+1172	MLBS	A4	Center	VA	37.37451	-80.52029	1187	overcast	humid	wet	22/05/17	142	15:34
+1173	MLBS	A4	1m-North	VA	37.37453	-80.52028	1187	overcast	humid	wet	22/05/17	142	15:38
+1174	MLBS	A4	1m-East	VA	37.37453	-80.52024	1188	overcast	humid	wet	22/05/17	142	15:43
+1175	MLBS	A4	1m-South	VA	37.37452	-80.52021	1188	overcast	humid	wet	22/05/17	142	15:46
+1176	MLBS	A4	1m-West	VA	37.37452	-80.52023	1188	overcast	humid	wet	22/05/17	142	15:50
+1177	MLBS	A5	Center	VA	37.37431	-80.52045	1189	overcast	humid	wet	22/05/17	142	16:02
+1178	MLBS	A5	1m-North	VA	37.37431	-80.52048	1187	overcast	humid	wet	22/05/17	142	16:05
+1179	MLBS	A5	1m-East	VA	37.37431	-80.52044	1186	overcast	humid	wet	22/05/17	142	16:08
+1180	MLBS	A5	1m-South	VA	37.37431	-80.52045	1188	overcast	humid	wet	22/05/17	142	16:13
+1181	MLBS	A5	1m-West	VA	37.37431	-80.52047	1187	overcast	humid	wet	22/05/17	142	16:16
+1182	MLBS	A6	Center	VA	37.37423	-80.52053	1188	overcast	humid	wet	22/05/17	142	16:21
+1183	MLBS	A6	1m-North	VA	37.37424	-80.52054	1188	overcast	humid	wet	22/05/17	142	16:25
+1184	MLBS	A6	1m-East	VA	37.37423	-80.52054	1188	overcast	humid	wet	22/05/17	142	16:27
+1185	MLBS	A6	1m-South	VA	37.37423	-80.52053	1189	overcast	humid	wet	22/05/17	142	16:30
+1186	MLBS	A6	1m-West	VA	37.37422	-80.52054	1189	overcast	humid	wet	22/05/17	142	16:34
+1187	MLBS	M1	Center	VA	37.3742	-80.52094	1186	overcast	warm	average	29/05/17	149	13:58
+1188	MLBS	M1	1m-North	VA	37.37426	-80.52098	1187	overcast	warm	average	29/05/17	149	14:04
+1189	MLBS	M1	1m-East	VA	37.37427	-80.52097	1195	overcast	warm	average	29/05/17	149	14:07
+1190	MLBS	M1	1m-South	VA	37.3742	-80.52099	1193	overcast	warm	wet	29/05/17	149	14:11
+1191	MLBS	M1	1m-West	VA	37.37421	-80.5209	1193	overcast	warm	average	29/05/17	149	14:15
+1192	MLBS	M2	Center	VA	37.37387	-80.52061	1192	overcast	warm	average	29/05/17	149	14:18
+1193	MLBS	M2	1m-North	VA	37.37383	-80.52071	1191	overcast	warm	average	29/05/17	149	14:21
+1194	MLBS	M2	1m-East	VA	37.37388	-80.52047	1194	overcast	warm	average	29/05/17	149	14:23
+1195	MLBS	M2	1m-South	VA	37.37382	-80.52051	1190	overcast	warm	wet	29/05/17	149	14:25
+1196	MLBS	M2	1m-West	VA	37.37386	-80.52063	1186	overcast	warm	average	29/05/17	149	14:28
+1197	MLBS	M3	Center	VA	37.37384	-80.52034	1193	overcast	warm	average	29/05/17	149	14:31
+1198	MLBS	M3	1m-North	VA	37.3738	-80.5204	1193	overcast	warm	average	29/05/17	149	14:34
+1199	MLBS	M3	1m-East	VA	37.37385	-80.52042	1181	overcast	warm	wet	29/05/17	149	14:39
+1200	MLBS	M3	1m-South	VA	37.37378	-80.52045	1184	overcast	warm	average	29/05/17	149	14:41
+1201	MLBS	M3	1m-West	VA	37.37378	-80.52039	1190	overcast	warm	average	29/05/17	149	14:36
+1202	MLBS	M4	Center	VA	37.37384	-80.5202	1184	overcast	warm	wet	29/05/17	149	14:47
+1203	MLBS	M4	1m-North	VA	37.37376	-80.52015	1187	overcast	warm	average	29/05/17	149	14:50
+1204	MLBS	M4	1m-East	VA	37.37385	-80.52008	1192	overcast	warm	average	29/05/17	149	14:53
+1205	MLBS	M4	1m-South	VA	37.37384	-80.52007	1187	overcast	warm	wet	29/05/17	149	14:55
+1206	MLBS	M4	1m-West	VA	37.37381	-80.52016	1181	overcast	warm	average	29/05/17	149	14:58
+1207	MLBS	M5	Center	VA	37.37394	-80.5797	1193	sunny	warm	average	12/06/17	163	12:15
+1208	MLBS	M5	1m-North	VA	37.37392	-80.51969	1189	sunny	warm	average	12/06/17	163	12:18
+1209	MLBS	M5	1m-East	VA	37.37371	-80.51971	1192	sunny	warm	average	12/06/17	163	12:22
+1210	MLBS	M5	1m-South	VA	37.37371	-80.51973	1181	sunny	warm	average	12/06/17	163	12:24
+1211	MLBS	M5	1m-West	VA	37.37367	-80.51973	1187	sunny	warm	average	12/06/17	163	12:27
+1212	MLBS	M6	Center	VA	37.37357	-80.51958	1194	sunny	warm	average	12/06/17	163	12:54
+1213	MLBS	M6	1m-North	VA	37.37348	-80.51964	1178	sunny	warm	average	12/06/17	163	12:56
+1214	MLBS	M6	1m-East	VA	37.37351	-80.51949	1172	sunny	warm	average	12/06/17	163	13:00
+1215	MLBS	M6	1m-South	VA	37.37354	-80.51955	1183	sunny	warm	average	12/06/17	163	13:02
+1216	MLBS	M6	1m-West	VA	37.3736	-80.51955	1190	sunny	warm	average	12/06/17	163	13:05
+1217	MLBS	M7	Center	VA	37.37291	-80.51876	1202	overcast	humid	average	4/07/17	185	11:30
+1218	MLBS	M7	1m-North	VA	37.3729	-80.51872	1205	overcast	humid	average	4/07/17	185	11:35
+1219	MLBS	M7	1m-East	VA	37.37298	-80.5186	1203	overcast	humid	average	4/07/17	185	11:39
+1220	MLBS	M7	1m-South	VA	37.37295	-80.51865	1202	overcast	humid	average	4/07/17	185	11:43
+1221	MLBS	M7	1m-West	VA	37.37295	-80.51863	1201	overcast	humid	average	4/07/17	185	11:47
+1222	MLBS	M8	Center	VA	37.37259	-80.51863	1206	overcast	humid	average	4/07/17	185	11:08
+1223	MLBS	M8	1m-North	VA	37.37261	-80.51862	1210	overcast	humid	average	4/07/17	185	11:11
+1224	MLBS	M8	1m-East	VA	37.37261	-80.51863	1200	overcast	humid	average	4/07/17	185	11:14
+1225	MLBS	M8	1m-South	VA	37.37262	-80.51859	1205	overcast	humid	average	4/07/17	185	11:17
+1226	MLBS	M8	1m-West	VA	37.37259	-80.51875	1208	overcast	humid	average	4/07/17	185	11:21
+1227	MLBS	C3	C3	VA	37.37275	-80.51874	1202	thunderstorms	wet	wet	19/06/17	170	11:22
+1228	MLBS	C4	C4	VA	37.37287	-80.51879	1206	thunderstorms	wet	wet	19/06/17	170	11:25
+1229	MLBS	C5	C5	VA	37.37286	-80.51875	1202	thunderstorms	wet	wet	19/06/17	170	11:28
+1230	MLBS	C6	C6	VA	37.37281	-80.51878	1198	thunderstorms	wet	wet	19/06/17	170	11:30
+1231	MLBS	C7	C7	VA	37.37289	-80.51868	1201	thunderstorms	wet	wet	19/06/17	170	11:33
+1232	MLBS	C8	C8	VA	37.37284	-80.51878	1200	thunderstorms	wet	wet	19/06/17	170	11:36
+1233	MLBS	C9	C9	VA	37.37294	-80.51871	1198	thunderstorms	wet	wet	19/06/17	170	11:39
+1234	MLBS	C10	C10	VA	37.37289	-80.51871	1199	thunderstorms	wet	wet	19/06/17	170	11:41
+1235	MLBS	C11	C11	VA	37.37293	-80.51868	1197	thunderstorms	wet	wet	19/06/17	170	11:44
+1236	MLBS	C12	C12	VA	37.37289	-80.51868	1201	thunderstorms	wet	wet	19/06/17	170	11:47
+1237	MLBS	CT1	Center	VA	37.37296	-80.5199	1209	overcast	humid	average	4/07/17	185	12:10
+1238	MLBS	CT1	1m-North	VA	37.37234	-80.51992	1207	overcast	humid	average	4/07/17	185	12:14
+1239	MLBS	CT1	1m-South	VA	37.37234	-80.5199	1202	overcast	humid	average	4/07/17	185	12:18
+1240	MLBS	D3	not applicable	VA	37.37740296	-80.52210297	1181	sunny	cool	average	6/06/17	157	17:43
+1241	MLBS	D4	not applicable	VA	37.37737	-80.52207	1178	sunny	cool	average	7/06/17	158	9:14
+1242	MLBS	D5	not applicable	VA	37.37735	-80.52204	1174	sunny	cool	average	7/06/17	158	9:18
+1243	MLBS	D6	not applicable	VA	37.37732	-80.52205	1177	sunny	cool	average	7/06/17	158	9:33
+1244	MLBS	D7	not applicable	VA	37.37734	-80.52205	1178	sunny	cool	average	7/06/17	158	9:26
+1245	MLBS	D8	not applicable	VA	37.377438	-80.52205796	1181	sunny	cool	average	6/06/17	157	17:28
+1246	MLBS	D9	not applicable	VA	37.37740204	-80.52205704	1181	sunny	cool	average	6/06/17	157	17:33
+1247	MLBS	D10	not applicable	VA	37.37737999	-80.52194799	1181	sunny	cool	average	6/06/17	157	17:50
+1248	MLBS	D11	not applicable	VA	37.3773	-80.52207	1181	sunny	cool	average	7/06/17	158	9:44
+1249	MLBS	D12	not applicable	VA	37.37734697	-80.52205796	1181	sunny	cool	average	6/06/17	157	17:46
+1250	MLBS	D13	D13	VA	37.37736	-80.52203	1172	sunny		wet	26/06/17	177	11:03
+1251	MLBS	D14	Center	VA	37.37732	-80.52192	1176	sunny		wet	26/06/17	177	11:09
+1252	MLBS	D14	1m-North	VA	37.37736	-80.5219	1174	sunny		wet	26/06/17	177	11:11
+1253	MLBS	D14	1m-East	VA	37.37738	-80.52206	1183	sunny		wet	26/06/17	177	11:14
+1254	MLBS	D14	1m-South	VA	37.37732	-80.52199	1180	sunny		wet	26/06/17	177	11:22
+1255	MLBS	D14	1m-West	VA	37.37735	-80.52194	1181	sunny		wet	26/06/17	177	11:25
+1256	MLBS	D15	Center	VA	37.3774	-80.52189	1184	sunny		wet	26/06/17	177	11:37
+1257	MLBS	D15	1m-North	VA	37.37734	-80.52183	1176	sunny		wet	26/06/17	177	11:40
+1258	MLBS	D15	1m-East	VA	37.37744	-80.52184	1180	sunny		wet	26/06/17	177	11:43
+1259	MLBS	D15	1m-South	VA	37.37734	-80.52193	1190	sunny		wet	26/06/17	177	11:50
+1260	MLBS	D15	1m-West	VA	37.37734	-80.52184	1180	sunny		wet	26/06/17	177	11:54
+1261	MLBS	D16	Center	VA	37.3772	-80.52184	1179	sunny		wet	26/06/17	177	12:13
+1262	MLBS	D16	1m-North	VA	37.37724	-80.5218	1179	sunny		wet	26/06/17	177	12:16
+1263	MLBS	D16	1m-East	VA	37.37719	-80.52177	1183	sunny		average	26/06/17	177	12:19
+1264	MLBS	D16	1m-South	VA	37.37711	-80.5219	1185	sunny		wet	26/06/17	177	12:23
+1265	MLBS	D16	1m-West	VA	37.37715	-80.52193	1181	sunny		average	26/06/17	177	12:27
+1266	MLBS	D17	Trail	VA	37.37779	-80.52189	1176	sunny		average	26/06/17	177	13:00
+1267	MLBS	D17	Center	VA	37.37777	-80.52166	1170	sunny		wet	26/06/17	177	13:03
+1268	MLBS	D17	Far	VA	37.3779	-80.52175	1167	sunny		wet	26/06/17	177	13:07
+1269	MLBS	D18	Trail	VA	37.37756	-80.52203	1151	overcast	humid	average	4/07/17	185	10:29
+1270	MLBS	D18	Center	VA	37.37757	-80.52193	1174	overcast	humid	average	4/07/17	185	10:33
+1271	MLBS	D18	Far	VA	37.37756	-80.52186	1170	overcast	humid	average	4/07/17	185	10:36
+1272	MLBS	ST1	ST1	VA	37.36571	-80.51995	1244	overcast	humid	average	4/07/17	185	12:45
+1273	MLBS	ST3	ST3	VA	37.36544	-80.52124	1233	overcast	humid	average	4/07/17	185	13:11
+1274	MLBS	ST4	ST4	VA	37.36319	-80.51961	1272	overcast	humid	average	4/07/17	185	13:30
+1275	MLBS	SR1	SR1	VA	37.3717	-80.52123	1192	overcast	humid	average	4/07/17	185	13:57
+1276	GSNP	GSNP15	not applicable	NC	35.60852	-83.44736	1640	overcast	light	average	4/06/17	155	10:40
+1277	GSNP	GSNP7	not applicable	NC	35.58543	-83.07417	1487	sunny	hot	dry	4/06/17	155	8:12
+1278	GSNP	GSNP16	not applicable	NC	35.60821	-83.44783	1642	overcast	light	dry	4/06/17	155	10:45
+1279	CBTF	CBTF1	not applicable	VA	37.844079	-79.07655098	744	rainy		wet	5/06/17	156	14:03
+1280	CBTF	CBTF3	not applicable	VA	37.845071	-79.07681803	711	rainy		wet	5/06/17	156	14:18
+1281	CBTF	CBTF5	not applicable	VA	37.84743302	-79.07864202	658	rainy		wet	5/06/17	156	14:35
+1282	CBTF	CBTF7	not applicable	VA	37.84794297	-79.07774599	614	rainy		wet	5/06/17	156	14:54
+1283	CBTF	CBTF9	not applicable	VA	37.85036098	-79.07899498	531	rainy		wet	5/06/17	156	15:15
+1284	CBTF	CBTF2	not applicable	VA	37.84499899	-79.07737501	731	rainy		wet	5/06/17	156	14:11
+1285	CBTF	CBTF6	not applicable	VA	37.84661301	-79.07727099	642	rainy		wet	5/06/17	156	14:45
+1286	CBTF	CBTF10	not applicable	VA	37.85125801	-79.07914401	505	rainy		wet	5/06/17	156	15:23
+1287	GSNP	GSNP28	not applicable	TN	35.61116	-83.44381	1706	not	recorded	not recorded	5/06/17	156	not recorded
+1288	GSNP	GSNP29	not applicable	TN	35.61116	-83.44381	1706	not	recorded	not recorded	5/06/17	156	not recorded
+1289	GSNP	GSNP33	not applicable	TN	35.62202	-83.47009	1234	not	recorded	not recorded	6/06/17	157	not recorded
+1290	GSNP	GSNP34	not applicable	TN	35.6152	-83.47002	1351	not	recorded	not recorded	6/06/17	157	not recorded
+1291	GSNP	GSNP35	not applicable	TN	35.6152	-83.47002	1351	not	recorded	not recorded	6/06/17	157	not recorded
+1292	GSNP	GSNP37	not applicable	TN	35.6152	-83.47002	1351	not	recorded	not recorded	6/06/17	157	not recorded
+1293	GSNP	GSNP41	not applicable	TN	35.61113	-83.46387	1417	not	recorded	not recorded	6/06/17	157	not recorded
+1294	GSNP	GSNP44	not applicable	TN	35.61047	-83.45815	1464	not	recorded	not recorded	6/06/17	157	not recorded
+1295	GSNP	GSNP46	not applicable	TN	35.60978	-83.44764	1600	not	recorded	not recorded	7/06/17	158	not recorded
+1296	GSNP	GSNP47	not applicable	TN	35.60978	-83.44764	1600	not	recorded	not recorded	7/06/17	158	not recorded
+1297	GSNP	GSNP50	not applicable	TN	35.61116	-83.44381	1706	not	recorded	not recorded	7/06/17	158	not recorded
+1298	GSNP	GSNP51	not applicable	TN	35.61116	-83.44381	1706	not	recorded	not recorded	7/06/17	158	not recorded
+1299	GSNP	GSNP52	not applicable	TN	35.61116	-83.44381	1706	not	recorded	not recorded	7/06/17	158	not recorded
+1300	GSNP	GSNP53	not applicable	TN	35.61116	-83.44381	1706	not	recorded	not recorded	7/06/17	158	not recorded
+1301	VCTX	VCTX50	not applicable	TX	30.15242	94.10023	11	sunny	warm	water logged	18/05/17	138	11:50
+1302	CBTF	CBTF4	not applicable	VA	37.84603097	-79.077459	685	rainy		wet	5/06/17	156	14:25
+1303	CBTF	CBTF8	not applicable	VA	37.84912901	-79.07900403	584	rainy		wet	5/06/17	156	15:04
+1304	MLBS	C1	not applicable	VA	37.37287	-80.51872	1201	sunny		average	10/07/17	191	10:50
+1305	MLBS	C2	not applicable	VA	37.37287	-80.51871	1210	sunny		average	10/07/17	191	10:56
+1306	MISL	MISL2	not applicable	NH	43.7417	-71.5308	177	overcast		average	14/07/17	195	12:00
+1307	MISL	MISL4	not applicable	NH	43.7426	-71.5328	172	overcast		average	14/07/17	195	12:00
+1308	NHPA	NHPA24	not applicable	NH	43.4423	-71.8235	243	rainy		average	13/07/17	194	14:30
+1309	NHPA	NHPA28	not applicable	NH	43.4318	-71.8363	257	rainy		average	13/07/17	194	14:30
+1310	CHNH	CHNH5	not applicable	NH	43.6948	-71.5057	233	rainy	thunderstorms	wet	8/07/17	189	11:30
+1311	KYRF	KYRF1	not applicable	KY	37.47339	83.15068	261	sunny		average	16/08/17	228	8:48
+1312	KYRF	KYRF2	not applicable	KY	37.47336	83.15075	332	sunny		average	16/08/17	228	8:54
+1313	KYRF	KYRF4	not applicable	KY	37.47345	83.1516	338	sunny		average	16/08/17	228	9:03
+1314	KYRF	KYRF30	not applicable	KY	37.47327	83.15145	328	sunny		average	16/08/17	228	11:02
+1315	MLBS	A1	not applicable	VA	37.37283	80.51881	1208	sunny		dry	3/10/17	276	14:06
+1316	MLBS	A2	not applicable	VA	37.37443	80.52026	1187	overcast	warm	average	10/10/17	283	13:42
+1317	MLBS	B1	not applicable	VA	37.35364	80.53616	1249	sunny	wet	wet	24/10/17	297	11:50
+1318	MLBS	B2	not applicable	VA	37.35363	80.53612	1251	sunny	wet	wet	24/10/17	297	11:55
+1319	MLBS	C1	not applicable	VA	37.37286	80.51872	1202	sunny	wet	wet	24/10/17	297	13:18
+1320	MLBS	C2	not applicable	VA	37.37284	80.51868	1202	sunny	wet	wet	24/10/17	297	13:27
+1321	MLBS	D1	not applicable	VA	37.37743	80.52202	1185	sunny		wet	31/10/17	304	12:24
+1322	MLBS	D2	not applicable	VA	37.37735	80.52205	1178	sunny		wet	31/10/17	304	12:36
+1323	MLBS	A3	center	VA	37.37443	80.52028	1179	sunny		dry	3/10/17	276	14:55
+1324	MLBS	A3	1m-north	VA	37.3745	80.52038	1175	sunny		dry	3/10/17	276	14:58
+1325	MLBS	A3	1-m-east	VA	37.37451	80.52036	1185	sunny		dry	3/10/17	276	15:02
+1326	MLBS	A3	1m-south	VA	37.37441	80.52031	1181	sunny		dry	3/10/17	276	15:05
+1327	MLBS	A3	1m-west	VA	37.37448	80.52034	1184	overcast	warm	average	10/10/17	283	13:50
+1328	MLBS	A4	center	VA	37.37453	80.52027	1181	sunny		dry	3/10/17	276	14:36
+1329	MLBS	A4	1m-north	VA	37.37458	80.52018	1183	sunny		dry	3/10/17	276	14:39
+1330	MLBS	A4	1m-east	VA	37.37449	80.5202	1186	sunny		average	3/10/17	276	14:42
+1331	MLBS	A4	1m-south	VA	37.37453	80.5202	1179	sunny		average	3/10/17	276	14:45
+1332	MLBS	A4	1m-west	VA	37.3746	80.52021	1174	sunny		average	3/10/17	276	14:50
+1333	MLBS	A5	center	VA	37.37438	80.52045	1185	sunny		dry	3/10/17	276	14:15
+1334	MLBS	A5	1m-north	VA	37.37434	80.52042	1185	sunny		dry	3/10/17	276	14:18
+1335	MLBS	A5	1m-east	VA	37.37437	80.52044	1186	sunny		dry	3/10/17	276	14:21
+1336	MLBS	A5	1m-south	VA	37.37432	80.52058	1179	sunny		dry	3/10/17	276	14:26
+1337	MLBS	A5	1m-west	VA	37.37434	80.52045	1177	sunny		dry	3/10/17	276	14:30
+1338	MLBS	A6	center	VA	37.37424	80.52057	1188	sunny		dry	3/10/17	276	15:15
+1339	MLBS	A6	1m-north	VA	37.37425	80.52055	1185	sunny		average	3/10/17	276	15:18
+1340	MLBS	A6	1m-east	VA	37.37415	80.52043	1186	sunny		dry	3/10/17	276	15:21
+1341	MLBS	A6	1m-south	VA	37.3742	80.52057	1175	sunny		average	3/10/17	276	15:25
+1342	MLBS	A6	1m-west	VA	37.37418	80.52055	1185	sunny		average	3/10/17	276	15:28
+1343	MLBS	M1	center	VA	37.37426	80.52094	1195	overcast	warm	average	10/10/17	283	13:28
+1344	MLBS	M1	1m-north	VA	37.37435	80.52094	1191	overcast	warm	average	10/10/17	283	13:31
+1345	MLBS	M1	1m-east	VA	37.3742	80.52094	1191	overcast	warm	average	10/10/17	283	13:34
+1346	MLBS	M1	1m-south	VA	37.37422	80.52088	1192	overcast	warm	average	10/10/17	283	13:37
+1347	MLBS	M1	1m-west	VA	37.37429	80.52092	1185	overcast	warm	wet	10/10/17	283	13:40
+1348	MLBS	M2	center	VA	37.37392	80.52052	1179	overcast	warm	wet	10/10/17	283	13:56
+1349	MLBS	M2	1m-north	VA	37.3739	80.52051	1182	overcast	warm	average	10/10/17	283	13:58
+1350	MLBS	M2	1m-east	VA	37.37387	80.52056	1193	overcast	warm	average	10/10/17	283	14:01
+1351	MLBS	M2	1m-south	VA	37.37387	80.52052	1197	overcast	warm	average	10/10/17	283	14:04
+1352	MLBS	M2	1m-west	VA	37.37388	80.52052	1182	overcast	warm	average	10/10/17	283	14:07
+1353	MLBS	M3	center	VA	37.37379	80.52033	1182	overcast	warm	average	10/10/17	283	14:14
+1354	MLBS	M3	1m-north	VA	37.37391	80.52026	1186	overcast	warm	wet	10/10/17	283	14:17
+1355	MLBS	M3	1m-east	VA	37.37385	80.52034	1184	overcast	warm	average	10/10/17	283	14:19
+1356	MLBS	M3	1m-south	VA	37.37382	80.52037	1182	overcast	warm	average	10/10/17	283	14:22
+1357	MLBS	M3	1m-west	VA	37.37387	80.52036	1184	overcast	warm	average	10/10/17	283	14:25
+1358	MLBS	M4	center	VA	37.37376	80.52019	1186	overcast	warm	wet	10/10/17	283	14:30
+1359	MLBS	M4	1m-north	VA	37.37391	80.52006	1187	overcast	warm	average	10/10/17	283	14:33
+1360	MLBS	M4	1m-east	VA	37.37383	80.51991	1183	overcast	warm	wet	10/10/17	283	14:36
+1361	MLBS	M4	1m-south	VA	37.37376	80.52001	1179	overcast	warm	average	10/10/17	283	14:39
+1362	MLBS	M4	1m-west	VA	37.37384	80.5201	1178	overcast	warm	average	10/10/17	283	14:41
+1363	MLBS	M5	center	VA	37.37377	80.51968	1194	sunny	wet	wet	24/10/17	297	12:44
+1364	MLBS	M5	north	VA	37.37382	80.51965	1198	sunny	wet	wet	24/10/17	297	12:47
+1365	MLBS	M5	east	VA	37.37385	80.51973	1195	sunny	wet	wet	24/10/17	297	12:49
+1366	MLBS	M5	south	VA	37.37373	80.51965	1201	sunny	wet	wet	24/10/17	297	12:52
+1367	MLBS	M5	west	VA	37.37373	80.51974	1204	sunny	wet	wet	24/10/17	297	12:54
+1368	MLBS	M6	center	VA	37.37363	80.51937	1193	sunny	wet	wet	24/10/17	297	12:59
+1369	MLBS	M6	north	VA	37.37358	80.51951	1198	sunny	wet	wet	24/10/17	297	13:02
+1370	MLBS	M6	east	VA	37.37354	80.51945	1194	sunny	wet	wet	24/10/17	297	13:04
+1371	MLBS	M6	south	VA	37.37356	80.51952	1194	sunny	wet	wet	24/10/17	297	13:07
+1372	MLBS	M6	west	VA	37.37361	80.51949	1200	sunny	wet	wet	24/10/17	297	13:10
+1373	MLBS	M7	center	VA	37.373	80.51858	1194	sunny	wet	wet	24/10/17	297	13:52
+1374	MLBS	M7	north	VA	37.37299	80.5186	1193	sunny	wet	wet	24/10/17	297	13:54
+1375	MLBS	M7	east	VA	37.37302	80.51865	1195	sunny	wet	wet	24/10/17	297	13:58
+1376	MLBS	M7	south	VA	37.37294	80.51855	1195	sunny	wet	wet	24/10/17	297	14:00
+1377	MLBS	M7	west	VA	37.37296	80.51865	1195	sunny	wet	wet	24/10/17	297	13:56
+1378	MLBS	M8	center	VA	37.37258	80.51865	1195	sunny	wet	wet	24/10/17	297	13:36
+1379	MLBS	M8	north	VA	37.37267	80.51859	1204	sunny	wet	wet	24/10/17	297	13:39
+1380	MLBS	M8	east	VA	37.37269	80.51862	1200	sunny	wet	wet	24/10/17	297	13:41
+1381	MLBS	M8	south	VA	37.3726	80.51868	1199	sunny	wet	wet	24/10/17	297	13:44
+1382	MLBS	M8	west	VA	37.37263	80.51864	1198	sunny	wet	wet	24/10/17	297	13:46
+1383	MLBS	C3	C3	VA	37.37283	80.51871	1194	sunny	wet	wet	24/10/17	297	13:30
+1384	MLBS	C4	C4	VA	37.37289	80.51868	1205	sunny	wet	wet	24/10/17	297	13:21
+1385	MLBS	C5	C5	VA	37.37286	80.51864	1201	sunny	wet	wet	24/10/17	297	13:33
+1432	CBTF	CBTF11	not applicable	VA	37.84388	79.07501	817	sunny		wet	17/10/17	290	15:26
+1433	CBTF	CBTF12	not applicable	VA	37.84406	79.07716	800	sunny		wet	17/10/17	290	15:36
+1434	CBTF	CBTF13	not applicable	VA	37.84409	79.07681	783	sunny		wet	17/10/17	290	15:46
+1435	CBTF	CBTF14	not applicable	VA	37.84457	79.07703	765	sunny		average	17/10/17	290	15:55
+1436	CBTF	CBTF15	not applicable	VA	37.84531	79.07747	748	sunny		average	17/10/17	290	16:00
+1437	CBTF	CBTF16	not applicable	VA	37.84575	79.07763	730	sunny		average	17/10/17	290	16:05
+1438	CBTF	CBTF17	not applicable	VA	37.84607	79.07748	713	sunny		wet	17/10/17	290	16:15
+1439	CBTF	CBTF18	not applicable	VA	37.84698	79.07852	695	sunny		wet	17/10/17	290	16:22
+1440	CBTF	CBTF19	not applicable	VA	37.84696	79.07812	680	sunny		wet	17/10/17	290	16:29
+1441	CBTF	CBTF20	not applicable	VA	37.84721	79.07772	663	sunny		average	17/10/17	290	16:37
+1442	CBTF	CBTF21	not applicable	VA	37.84793	79.07767	645	sunny		wet	17/10/17	290	16:42
+1443	CBTF	CBTF22	not applicable	VA	37.84808	79.07761	628	sunny		wet	17/10/17	290	16:51
+1444	CBTF	CBTF23	not applicable	VA	37.84847	79.07795	613	sunny		average	17/10/17	290	16:59
+1445	CBTF	CBTF24	not applicable	VA	37.84875	79.07862	596	sunny		average	17/10/17	290	17:04
+1446	CBTF	CBTF25	not applicable	VA	37.84898	79.07938	581	sunny		average	17/10/17	290	17:11
+1447	CBTF	CBTF26	not applicable	VA	37.84921	79.0776	565	sunny		wet	17/10/17	290	17:26
+1448	CBTF	CBTF27	not applicable	VA	37.84945	79.07787	547	sunny		wet	17/10/17	290	17:36
+1449	CBTF	CBTF28	not applicable	VA	37.85033	79.07861	530	sunny		average	17/10/17	290	17:42
+1450	CBTF	CBTF29	not applicable	VA	37.85048	79.07867	513	sunny		average	17/10/17	290	17:48
+1451	CBTF	CBTF30	not applicable	VA	37.85131	79.07912	496	sunny		wet	17/10/17	290	17:54
+1455	VCTX	VCTX51	not applicable	TX	30.242175	-94.152855	30	overcast		wet	18/02/18	49	8:40
+1456	BTTX	BTTX27	not applicable	TX	30.694034	-94.698072	63	sunny	cool	Average	14/04/18	104	3:10
+1457	BTTX	BTTX24	not applicable	TX	30.690527	-94.697542	63	sunny	cool	Average	14/04/18	104	2:45
+1458	MLBS	D1	not applicable	VA	37.37734	-80.52206	1185	overcast		wet	1/06/18	152	10:15
+1459	MLBS	D2	not applicable	VA	37.37741	-80.52206	1191	overcast		wet	1/06/18	152	10:25
+1460	MLBS	B1	not applicable	VA	37.35368	-80.53615	1247	sunny		average	1/06/18	152	14:35
+1461	MLBS	B2	not applicable	VA	37.735369	-80.53625	1245	sunny		average	1/06/18	152	14:32
+1462	MLBS	C3	not applicable	VA	37.37248	-80.51843	1226	sunny	warm	average	6/06/18	157	19:00
+1463	MLBS	C8	not applicable	VA	37.37292	-80.51868	1212	sunny	warm	average	6/06/18	157	19:00
+1464	MLBS	C10	not applicable	VA	37.37289	-80.51869	1214	sunny	warm	average	6/06/18	157	19:00
+1465	MLBS	C11	not applicable	VA	37.37287	-80.5186	1216	sunny	warm	average	6/06/18	157	19:00
+1466	MLBS	C12	not applicable	VA	37.37288	-80.51864	1216	sunny	warm	average	6/06/18	157	19:00
+1467	MLBS	A1	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	average	18/06/18	169	9:42
+1468	MLBS	A2	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	average	18/06/18	169	9:47
+1469	MLBS	B1	not applicable	VA	37.35355	-80.53613	1250	sunny	warm	dry	18/06/18	169	11:30
+1470	MLBS	B2	not applicable	VA	37.35357	-80.53622	1248	sunny	warm	dry	18/06/18	169	11:30
+1471	MLBS	C1	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	dry	18/06/18	169	9:58
+1472	MLBS	C2	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	dry	18/06/18	169	10:02
+1473	MLBS	D1	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	average	18/06/18	169	9:21
+1474	MLBS	D2	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	average	18/06/18	169	9:25
+1475	MLBS	C2-NW	not applicable	VA	37.37287	-80.51879	1190	sunny	warm	dry	18/06/18	169	17:30
+1476	MLBS	C2-SE	not applicable	VA	37.37288	-80.5188	1193	sunny	warm	dry	18/06/18	169	18:30
+1477	MLBS	A1-NW	not applicable	VA	37.37436	-80.52051	1178	sunny	warm	dry	18/06/18	169	13:30
+1478	MLBS	A1-SE	not applicable	VA	37.37439	-80.52047	1178	sunny	warm	dry	18/06/18	169	14:30
+1479	MLBS	A2-NW	not applicable	VA	37.37451	-80.52026	1175	sunny	warm	dry	18/06/18	169	15:30
+1480	MLBS	A2-SE	not applicable	VA	37.37447	-80.52032	1175	sunny	warm	dry	18/06/18	169	16:30
+1481	MLBS	A1	SE	VA	37.37436	-80.52051	1178	sunny	warm	average	5/07/18	186	10:30
+1482	MLBS	A2	NW	VA	37.37439	-80.52047	1178	sunny	warm	average	5/07/18	186	10:30
+1483	MLBS	A1	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	wet	6/10/18	279	12:51
+1484	MLBS	A2	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	wet	6/10/18	279	12:55
+1485	MLBS	B1	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	average	6/10/18	279	14:12
+1486	MLBS	B2	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	average	6/10/18	279	14:15
+1487	MLBS	C1	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	average	6/10/18	279	13:06
+1488	MLBS	C2	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	average	6/10/18	279	13:11
+1489	MLBS	D1	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	average	6/10/18	279	13:26
+1490	MLBS	D2	not applicable	VA	not recorded	not recorded	not recorded	sunny	warm	average	6/10/18	279	13:31
+1491	MLBS	A1	not applicable	VA	37.37439	80.52061	1105	thunderstorms	wet	wet	19/06/19	170	17:10
+1492	MLBS	A2	not applicable	VA	37.37446	80.52033	1171	thunderstorms	wet	wet	19/06/19	170	17:10
+1493	MLBS	C1	not applicable	VA	37.37284	80.51864	1209	sunny	warm	average	28/06/19	179	14:36
+1494	MLBS	C2	not applicable	VA	37.37281	80.51868	1209	sunny	warm	average	28/06/19	179	14:41
+1495	MLBS	D1	not applicable	VA	37.37735	80.52207	1177	sunny	warm	average	28/06/19	179	14:59
+1496	MLBS	D2	not applicable	VA	37.37737	80.52214	1177	sunny	warm	average	28/06/19	179	15:01
+1497	MLBS	B1	not applicable	VA	37.35364	80.53615	1120	overcast	warm	average	29/06/19	180	14:42
+1498	MLBS	B2	not applicable	VA	37.35366	80.53619	1120	overcast	warm	average	29/06/19	180	14:42
+1499	NHPA	24	not applicable	NH	not recorded	not recorded	not recorded	not	recorded	not recorded	11/07/19	192	15:06
+1500	PAMD	1	not applicable	PA	39.78546	-79.17421	975	not	recorded	not recorded	17/07/19	198	not recorded
+1501	PAMD	2	not applicable	PA	39.78546	-79.17421	975	not	recorded	not recorded	17/07/19	198	not recorded
+1502	PAMD	4	not applicable	PA	39.78708	-79.17172	975	not	recorded	not recorded	17/07/19	198	not recorded
+1503	MLBS	A1	not applicable	VA	not recorded	not recorded	not recorded	not	recorded	dry	29/07/20	211	not recorded
+1504	MLBS	A2	not applicable	VA	not recorded	not recorded	not recorded	not	recorded	dry	29/07/20	211	not recorded
+1505	MLBS	B1	not applicable	VA	not recorded	not recorded	not recorded	not	recorded	dry	29/07/20	211	not recorded
+1506	MLBS	B2	not applicable	VA	not recorded	not recorded	not recorded	not	recorded	dry	29/07/20	211	not recorded
+1507	MLBS	C1	not applicable	VA	not recorded	not recorded	not recorded	not	recorded	dry	29/07/20	211	not recorded
+1508	MLBS	C2	not applicable	VA	not recorded	not recorded	not recorded	not	recorded	dry	29/07/20	211	not recorded
+1509	MLBS	D1	not applicable	VA	not recorded	not recorded	not recorded	not	recorded	dry	29/07/20	211	not recorded
+1510	MLBS	D2	not applicable	VA	not recorded	not recorded	not recorded	not	recorded	dry	29/07/20	211	not recorded
+1511	MLBS	A1	not applicable	VA	37.37436	80.52039	1177	clear	warm	not recorded	9/09/22	252	12:04
+1512	MLBS	A2	not applicable	VA	37.37446	80.52032	1179	clear	warm	not recorded	9/09/22	252	12:45
+1513	MLBS	B1	not applicable	VA	not recorded	not recorded	not recorded	clear	warm	not recorded	9/09/22	252	15:57
+1514	MLBS	B2	not applicable	VA	37.3536	80.53616	1253	clear	warm	not recorded	9/09/22	252	16:07
+1515	MLBS	C1	not applicable	VA	37.37283	80.51868	1204	clear	warm	not recorded	9/09/22	252	14:00
+1516	MLBS	C2	not applicable	VA	37.37286	80.51866	1205	clear	warm	not recorded	9/09/22	252	14:00
+1517	MLBS	D1	not applicable	VA	37.37739	80.52207	1186	clear	warm	not recorded	9/09/22	252	17:41
+1518	MLBS	D2	not applicable	VA	37.37733	80.52209	1186	clear	warm	not recorded	9/09/22	252	17:50

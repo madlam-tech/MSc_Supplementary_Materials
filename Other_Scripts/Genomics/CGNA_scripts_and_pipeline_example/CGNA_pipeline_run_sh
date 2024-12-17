@@ -1,0 +1,60 @@
+#!/bin/bash
+
+# Master pipeline for MLST processing
+# Workflow steps:
+# 1. Extract genes from GBK files.
+# 2. Combine extracted genes with 16S rRNA sequences.
+# 3. Generate gene presence/absence matrix.
+# 4. Identify common genes and reorder sequences.
+# 5. Concatenate sequences and rehead with genus/species info.
+
+# === Setup ===
+PROKKA_DIR="./prokka_7"
+BARRNAP_DIR="./barrnap_output_20241217"
+GENES_DIR="./MLST_intermediate_genes"
+COMBINED_DIR="${GENES_DIR}/combined_files"
+ORDERED_DIR="./ordered_fasta_files"
+CONCATENATED_DIR="./concatenated_fasta_files"
+REHEADED_DIR="./reheaded_fasta_files"
+
+# Start log
+echo "Starting MLST pipeline at $(date)"
+
+# Step 1: Extract genes
+echo "Step 1: Extracting genes from GBK files..."
+bash step_1_gene_extracter.sh
+if [ $? -ne 0 ]; then echo "Error in step 1"; exit 1; fi
+
+# Step 2: Combine 16S rRNA with extracted genes
+echo "Step 2: Combining 16S rRNA with extracted genes..."
+bash step_2_extract_16S_add_to_gbk_genes.sh
+if [ $? -ne 0 ]; then echo "Error in step 2"; exit 1; fi
+
+# Step 3: Generate presence/absence matrix
+echo "Step 3: Generating gene presence/absence matrix..."
+bash step_3_tabulate.sh
+if [ $? -ne 0 ]; then echo "Error in step 3"; exit 1; fi
+
+# Step 4: Reorder based on common genes
+echo "Step 4: Identifying common genes and reordering FASTA files..."
+bash step_4_common_genes_order.sh
+if [ $? -ne 0 ]; then echo "Error in step 4"; exit 1; fi
+
+# Step 5: Concatenate sequences
+echo "Step 5: Concatenating ordered gene sequences..."
+bash step_5_strip_concatenate_rehead.sh
+if [ $? -ne 0 ]; then echo "Error in step 5"; exit 1; fi
+
+# Step 6: Fetch genus/species and rehead files
+echo "Step 6: Fetching genus/species from NCBI and reheading files..."
+python3 step_6_fetch_and_rehead.py
+if [ $? -ne 0 ]; then echo "Error in step 6"; exit 1; fi
+
+# End log
+echo "MLST pipeline completed successfully at $(date)"
+echo "Results:"
+echo " - Extracted genes: ${GENES_DIR}"
+echo " - Combined files: ${COMBINED_DIR}"
+echo " - Ordered files: ${ORDERED_DIR}"
+echo " - Concatenated files: ${CONCATENATED_DIR}"
+echo " - Reheaded files: ${REHEADED_DIR}"

@@ -1,0 +1,105 @@
+# Load necessary libraries
+library(picante)
+library(dplyr)
+library(tidyverse)
+library(ape)
+library(foreach)
+library(doParallel)
+
+# Set the number of cores
+num_cores <- 100
+
+# Create a cluster with the desired number of cores
+cl <- makeCluster(num_cores)
+registerDoParallel(cl)
+
+# Load the OTU table from a CSV file
+otu_table_2k <- read.csv("./otu_table_2k.csv", row.names = 1)
+
+# Convert the OTU table to a matrix
+otu_table_2k <- as.matrix(otu_table_2k)
+
+# Load the phylogenetic tree from a Newick file
+phylo_tree <- read.tree("./phylo_tree.nwk")
+
+# Print dimensions and a preview of the OTU table
+cat("Dimensions of OTU table:\n")
+print(dim(otu_table_2k))
+cat("First 5 rows and columns of OTU table:\n")
+print(otu_table_2k[1:5, 1:5])
+
+# Print a summary of the phylogeny
+cat("Summary of phylogenetic tree:\n")
+print(phylo_tree)
+plot.phylo(phylo_tree, type = "fan")  # A quick plot
+
+# Ensure the names on the phylogeny are ordered the same as the names in OTU table
+cat("Checking data types and structures:\n")
+cat("Class of OTU table:\n")
+print(class(otu_table_2k))
+cat("Class of phylogeny:\n")
+print(class(phylo_tree))
+
+# Matching OTU table and phylogenetic tree manually
+shared_taxa <- intersect(rownames(otu_table_2k), phylo_tree$tip.label)
+otu_table_2k_matched <- otu_table_2k[shared_taxa, ]
+phylo_tree_matched <- drop.tip(phylo_tree, setdiff(phylo_tree$tip.label, shared_taxa))
+
+cat("Dimensions of matched OTU table:\n")
+print(dim(otu_table_2k_matched))
+cat("Summary of matched phylogenetic tree:\n")
+print(phylo_tree_matched)
+
+# Calculate empirical betaMNTD
+beta.mntd.weighted <- as.matrix(comdistnt(t(otu_table_2k_matched), cophenetic(phylo_tree_matched), abundance.weighted = TRUE))
+dim(beta.mntd.weighted)
+beta.mntd.weighted[1:5, 1:5]
+write.csv(beta.mntd.weighted, 'betaMNTD_weighted.csv', quote = FALSE)
+
+# Check column and row names
+identical(colnames(otu_table_2k_matched), colnames(beta.mntd.weighted))  # Should be TRUE
+identical(colnames(otu_table_2k_matched), rownames(beta.mntd.weighted))  # Should be TRUE
+
+# Calculate randomized betaMNTD
+beta.reps <- 999  # Number of randomizations
+rand.weighted.bMNTD.comp <- array(-999, dim = c(ncol(otu_table_2k_matched), ncol(otu_table_2k_matched), beta.reps))
+dim(rand.weighted.bMNTD.comp)
+
+# Parallelize the randomization process
+rand_results <- foreach(rep = 1:beta.reps, .combine = 'cbind', .packages = 'picante') %dopar% {
+  rand_matrix <- as.matrix(comdistnt(t(otu_table_2k_matched), taxaShuffle(cophenetic(phylo_tree_matched)), abundance.weighted = TRUE, exclude.conspecifics = FALSE))
+  list(rand_matrix)
+}
+
+# Combine results into the array
+for (rep in 1:beta.reps) {
+  rand.weighted.bMNTD.comp[, , rep] <- rand_results[[rep]]
+}
+
+# Stop the cluster when done
+stopCluster(cl)
+
+# Calculate weighted bNTI
+weighted.bNTI <- matrix(NA, nrow = ncol(otu_table_2k_matched), ncol = ncol(otu_table_2k_matched))
+dim(weighted.bNTI)
+
+for (columns in 1:(ncol(otu_table_2k_matched) - 1)) {
+  for (rows in (columns + 1):ncol(otu_table_2k_matched)) {
+    rand.vals <- rand.weighted.bMNTD.comp[rows, columns, ]
+    weighted.bNTI[rows, columns] <- (beta.mntd.weighted[rows, columns] - mean(rand.vals)) / sd(rand.vals)
+    rm("rand.vals")
+  }
+}
+
+rownames(weighted.bNTI) <- colnames(otu_table_2k_matched)
+colnames(weighted.bNTI) <- colnames(otu_table_2k_matched)
+write.csv(weighted.bNTI, "weighted_bNTI.csv", quote = FALSE)
+
+# Create a histogram of weighted bNTI
+pdf("weighted_bNTI_Histogram.pdf")
+hist(weighted.bNTI)
+dev.off()
+
+# Save the OTU table and the phylogenetic tree
+write.csv(otu_table_2k_matched, 'otu_table_2k_matched.csv')
+write.tree(phylo_tree_matched, 'phylo_tree_matched.nwk')

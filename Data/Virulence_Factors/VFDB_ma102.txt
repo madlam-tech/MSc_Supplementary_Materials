@@ -1,0 +1,463 @@
+Aug_1-6933834201																	
+VFclass	Virulence factors	Related genes	ma102(Prediction)	P.aeruginosa LESB58 	P.aeruginosa PA7 	P.aeruginosa PAO1 	P.aeruginosa UCBPP-PA14 	P.entomophila L48 	P.fluorescens Pf-5 	P.fluorescens Pf0-1 	P.mendocina ymp 	P.putida KT2440 	P.putida W619 	P.stutzeri A1501 	P.syringae pv. phaseolicola 1448A 		P.syringae pv. syringae B728a 
+			draft (draft)	chromosome (NC_011770)	chromosome (NC_009656)	chromosome (NC_002516)	chromosome (NC_008463)	chromosome (NC_008027)	chromosome (NC_004129)	chromosome (NC_007492)	chromosome (NC_009439)	chromosome (NC_002947)	chromosome (NC_010501)	chromosome (NC_009434)	large plasmid (NC_007274)	chromosome (NC_005773)	chromosome (NC_007005)
+Adherence	Flagella	flaG	-	PLES_42281	PSPA7_4278	PA1093	PA14_50280	PSEEN3825	PFL_1630	Pfl_1528	Pmen_2834	PP_4377	PputW619_3702	PST_1862	-	PSPPH_3391	Psyr_3465
+		fleN	MMBGCLAI_02998	PLES_39591	PSPA7_3873	PA1454	PA14_45640	PSEEN3797	PFL_1666	Pfl_1562	Pmen_2806	PP_4342	PputW619_3668	PST_2570	-	PSPPH_3364	Psyr_3438
+		fleQ	MMBGCLAI_03064	PLES_42241	PSPA7_4274	PA1097	PA14_50220	PSEEN3820	PFL_1634	Pfl_1532	Pmen_2829	PP_4373	PputW619_3698	PST_2544	-	PSPPH_3387	Psyr_3461
+		fleR	MMBGCLAI_03062	PLES_42221	PSPA7_4272	PA1099	PA14_50180	PSEEN3818	PFL_1636	Pfl_1534	Pmen_2827	PP_4371	PputW619_3696	PST_2542	-	PSPPH_3385	Psyr_3459
+		fleS	MMBGCLAI_03063	PLES_42231	PSPA7_4273	PA1098	PA14_50200	PSEEN3819	PFL_1635	Pfl_1533	Pmen_2828	PP_4372	PputW619_3697	PST_2543	-	PSPPH_3386	Psyr_3460
+		flgA	MMBGCLAI_03085	PLES_17141	PSPA7_1780	PA3350	PA14_20740	PSEEN3846	PFL_4483	Pfl_4254	Pmen_2853	PP_4394	PputW619_3735	PST_1385	-	PSPPH_3414	Psyr_3487
+		flgB	MMBGCLAI_03082; MMBGCLAI_04590	PLES_42441	PSPA7_4300	PA1077	PA14_50480	PSEEN3842	PFL_4480	Pfl_4251	Pmen_2850	PP_4391	PputW619_3732	PST_1388	-	PSPPH_3408	Psyr_3481
+		flgC	MMBGCLAI_03081	PLES_42431	PSPA7_4299	PA1078	PA14_50470	PSEEN3841	PFL_4479	Pfl_4250	Pmen_2849	PP_4390	PputW619_3731	PST_1389	-	PSPPH_3407	Psyr_3480
+		flgD	MMBGCLAI_03080	PLES_42421	PSPA7_4298	PA1079	PA14_50460	PSEEN3840	PFL_4478	Pfl_4249	Pmen_2848	PP_4389	PputW619_3730	PST_1390	-	PSPPH_3406	Psyr_3479
+		flgE	MMBGCLAI_03079	PLES_42411	PSPA7_4297	PA1080	PA14_50450	PSEEN3839	PFL_4477	Pfl_4248	Pmen_2847	PP_4388	PputW619_3729	PST_1391	-	PSPPH_3405	Psyr_3478
+		flgF	MMBGCLAI_03078	PLES_42401	PSPA7_4296	PA1081	PA14_50440	PSEEN3837	PFL_1613	Pfl_1501	Pmen_2846	PP_4386	PputW619_3727	PST_1392	-	PSPPH_3402	Psyr_3476
+		flgG	MMBGCLAI_03077	PLES_42391	PSPA7_4295	PA1082	PA14_50430	PSEEN3836	PFL_1614	Pfl_1502	Pmen_2845	PP_4385	PputW619_3726	PST_1393	-	PSPPH_3401	Psyr_3475
+		flgH	MMBGCLAI_03076	PLES_42381	PSPA7_4294	PA1083	PA14_50420	PSEEN3835	PFL_1615	Pfl_1503	Pmen_2844	PP_4384	PputW619_3725	PST_1394	-	PSPPH_3400	Psyr_3474
+		flgI	MMBGCLAI_03075	PLES_42371	PSPA7_4293	PA1084	PA14_50410	PSEEN3834	PFL_1616	Pfl_1504	Pmen_2843	PP_4383	PputW619_3724	PST_1395	-	PSPPH_3399	Psyr_3473
+		flgJ	MMBGCLAI_03074	PLES_42361	PSPA7_4292	PA1085	PA14_50380	PSEEN3833	PFL_1617	Pfl_1505	Pmen_2842	PP_4382	PputW619_3723	PST_1396	-	PSPPH_3398	Psyr_3472
+		flgK	MMBGCLAI_03073	PLES_42351	PSPA7_4291	PA1086	PA14_50360	PSEEN3832	PFL_1618	Pfl_1506	Pmen_2841	PP_4381	PputW619_3722	PST_1397	-	PSPPH_3397	Psyr_3471
+		flgL	MMBGCLAI_03072	PLES_42341	PSPA7_4290	PA1087	PA14_50340	PSEEN3831	PFL_1619	Pfl_1507	Pmen_2840	PP_4380	PputW619_3721	PST_1398	-	PSPPH_3396	Psyr_3470
+		flgM	-	PLES_17131	PSPA7_1779	PA3351	PA14_20730	PSEEN3847	PFL_4484	Pfl_4255	Pmen_2854	PP_4395	PputW619_3736	PST_1384	-	PSPPH_3415	Psyr_3488
+		flgN	MMBGCLAI_03087	PLES_17121	PSPA7_1778	PA3352	PA14_20720	PSEEN3848	PFL_4485	Pfl_4256	Pmen_2855	PP_4396	PputW619_3737	PST_1383	-	PSPPH_3416	Psyr_3489
+		flhA	MMBGCLAI_03000	PLES_39611	PSPA7_3875	PA1452	PA14_45680	PSEEN3799	PFL_1664	Pfl_1560	Pmen_2808	PP_4344	PputW619_3670	PST_2572	-	PSPPH_3366	Psyr_3440
+		flhB	MMBGCLAI_03002	PLES_39641	PSPA7_3878	PA1449	PA14_45720	PSEEN3800	PFL_1654	Pfl_1552	Pmen_2809	PP_4352	PputW619_3678	PST_2574	-	PSPPH_3367	Psyr_3441
+		flhF	MMBGCLAI_02999	PLES_39601	PSPA7_3874	PA1453	PA14_45660	PSEEN3798	PFL_1665	Pfl_1561	Pmen_2807	PP_4343	PputW619_3669	PST_2571	-	PSPPH_3365	Psyr_3439
+		fliA	MMBGCLAI_02997	PLES_39581	PSPA7_3872	PA1455	PA14_45630	PSEEN3796	PFL_1667	Pfl_1563	Pmen_2805	PP_4341	PputW619_3667	PST_2569	-	PSPPH_3363	Psyr_3437
+		fliC	MMBGCLAI_03069	PLES_42291	PSPA7_4279	PA1092	PA14_50290	PSEEN3826	PFL_1629	Pfl_1527	Pmen_2835	PP_4378	PputW619_3703	PST_1404	-	PSPPH_3392	Psyr_3466
+		fliD	MMBGCLAI_03067	PLES_42271	PSPA7_4277	PA1094	PA14_50270	PSEEN3824	PFL_1631	Pfl_1529	Pmen_2833	PP_4376	PputW619_3701	PST_1863	-	PSPPH_3390	Psyr_3464
+		fliE	MMBGCLAI_03017	PLES_42211	PSPA7_4271	PA1100	PA14_50160	PSEEN3817	PFL_1637	Pfl_1535	Pmen_2826	PP_4370	PputW619_3695	PST_2591	-	PSPPH_3384	Psyr_3458
+		fliF	MMBGCLAI_03016	PLES_42201	PSPA7_4270	PA1101	PA14_50140	PSEEN3816	PFL_1638	Pfl_1536	Pmen_2825	PP_4369	PputW619_3694	PST_2590	-	PSPPH_3383	Psyr_3457
+		fliG	MMBGCLAI_03015	PLES_42191	PSPA7_4269	PA1102	PA14_50130	PSEEN3815	PFL_1639	Pfl_1537	Pmen_2824	PP_4368	PputW619_3693	PST_2589	-	PSPPH_3382	Psyr_3456
+		fliH	MMBGCLAI_03014	PLES_42181	PSPA7_4268	PA1103	PA14_50110	PSEEN3814	PFL_1640	Pfl_1538	Pmen_2823	PP_4367	PputW619_3692	PST_2588	-	PSPPH_3381	Psyr_3455
+		fliI	MMBGCLAI_03013	PLES_42171	PSPA7_4267	PA1104	PA14_50100	PSEEN3813	PFL_1641	Pfl_1539	Pmen_2822	PP_4366	PputW619_3691	PST_2587	-	PSPPH_3380	Psyr_3454
+		fliJ	MMBGCLAI_03012	PLES_42161	PSPA7_4266	PA1105	PA14_50080	PSEEN3812	PFL_1642	Pfl_1540	Pmen_2821	PP_4365	PputW619_3690	PST_2586	-	PSPPH_3379	Psyr_3453
+		fliK	-	PLES_39721	PSPA7_3888	PA1441	PA14_45830	PSEEN3808	PFL_1646	Pfl_1544	Pmen_2817	PP_4361	PputW619_3686	PST_2582	-	PSPPH_3375	Psyr_3449
+		fliL	MMBGCLAI_03009	PLES_39711	PSPA7_3885	PA1442	PA14_45810	PSEEN3807	PFL_1647	Pfl_1545	Pmen_2816	PP_4359	PputW619_3685	PST_2581	-	PSPPH_3374	Psyr_3448
+		fliM	MMBGCLAI_03008	PLES_39701	PSPA7_3884	PA1443	PA14_45800	PSEEN3806	PFL_1648	Pfl_1546	Pmen_2815	PP_4358	PputW619_3684	PST_2580	-	PSPPH_3373	Psyr_3447
+		fliN	MMBGCLAI_03007	PLES_39691	PSPA7_3883	PA1444	PA14_45790	PSEEN3805	PFL_1649	Pfl_1547	Pmen_2814	PP_4357	PputW619_3683	PST_2579	-	PSPPH_3372	Psyr_3446
+		fliO	-	PLES_39681	PSPA7_3882	PA1445	PA14_45780	PSEEN3804	PFL_1650	Pfl_1548	Pmen_2813	PP_4356	PputW619_3682	PST_2578	-	PSPPH_3371	Psyr_3445
+		fliP	MMBGCLAI_03005	PLES_39671	PSPA7_3881	PA1446	PA14_45770	PSEEN3803	PFL_1651	Pfl_1549	Pmen_2812	PP_4355	PputW619_3681	PST_2577	-	PSPPH_3370	Psyr_3444
+		fliQ	MMBGCLAI_03004	PLES_39661	PSPA7_3880	PA1447	PA14_45760	PSEEN3802	PFL_1652	Pfl_1550	Pmen_2811	PP_4354	PputW619_3680	PST_2576	-	PSPPH_3369	Psyr_3443
+		fliR	MMBGCLAI_03003	PLES_39651	PSPA7_3879	PA1448	PA14_45740	PSEEN3801	PFL_1653	Pfl_1551	Pmen_2810	PP_4353	PputW619_3679	PST_2575	-	PSPPH_3368	Psyr_3442
+		fliS	MMBGCLAI_03066	PLES_42261	PSPA7_4276*	PA1095	PA14_50250	PSEEN3823	PFL_1632	Pfl_1530	Pmen_2831	PP_4375	PputW619_3700	PST_1866	-	PSPPH_3389	Psyr_3463
+		fliT	-	PLES_42251	PSPA7_4275	PA1096	PA14_50240	PSEEN3822	PFL_1633	Pfl_1531	Pmen_2830	PP_4374	PputW619_3699	PST_2545	-	PSPPH_3388	Psyr_3462
+		motA	MMBGCLAI_04038	PLES_53401	PSPA7_5683	PA4954	PA14_65450	PSEEN4958	PFL_0555	Pfl_0512	Pmen_0624	PP_4905	PputW619_4697	PST_3797	-	PSPPH_0554	Psyr_0561
+		motB	MMBGCLAI_04037	PLES_53391	PSPA7_5682	PA4953	PA14_65430	PSEEN4957	PFL_0556	Pfl_0513	Pmen_0625	PP_4904	PputW619_4696	PST_3796	-	PSPPH_0555	Psyr_0562
+		motC	MMBGCLAI_02992	PLES_39531	PSPA7_3866	PA1460	PA14_45560	PSEEN3791	PFL_1672	Pfl_1568	Pmen_2800	PP_4336	PputW619_3662	PST_2564	-	PSPPH_3358	Psyr_3432
+		motD	MMBGCLAI_02991	PLES_39521	PSPA7_3865	PA1461	PA14_45540	PSEEN3790	PFL_1673	Pfl_1569	Pmen_2799	PP_4335	PputW619_3661	PST_2563	-	PSPPH_3357	Psyr_3431
+		motY	MMBGCLAI_01754	PLES_15071	PSPA7_1621	PA3526	PA14_18720	PSEEN1209	PFL_4854	Pfl_4518	Pmen_1393	PP_1087	PputW619_1116	PST_1202	-	PSPPH_3887	Psyr_3893
+	LPS O-antigen (P. aeruginosa)	Undetermined	MMBGCLAI_03023; MMBGCLAI_03024	PLES_19081; PLES_19091; PLES_19101; PLES_19111; PLES_19121; PLES_19131; PLES_19141; PLES_19151; PLES_19161; PLES_19171; PLES_19181	PSPA7_1969; PSPA7_1970; PSPA7_1971; PSPA7_1972; PSPA7_1973; PSPA7_1974; PSPA7_1975; PSPA7_1976; PSPA7_1977; PSPA7_1978; PSPA7_1979; PSPA7_1980; PSPA7_1981; PSPA7_1982; PSPA7_1983; PSPA7_1984; PSPA7_1985; PSPA7_1986	PA3141; PA3142; PA3143; PA3144; PA3145; PA3146; PA3147; PA3148; PA3149; PA3150; PA3151; PA3152; PA3153; PA3154; PA3155; PA3156; PA3157; PA3158; PA3159; PA3160	PA14_23360; PA14_23370; PA14_23380; PA14_23390; PA14_23400; PA14_23410; PA14_23420; PA14_23430; PA14_23440; PA14_23450; PA14_23460; PA14_23470	-	-	-	-	-	-	-	-	-	-
+	Type IV pili biosynthesis	fimT	-	PLES_49321	PSPA7_5189	PA4549	-	-	-	-	Pmen_0963	-	-	PST_0975	-	-	-
+		fimU	-	PLES_49331	PSPA7_5190	PA4550	PA14_60280	-	-	Pfl_4848	Pmen_0962	-	-	PST_0974	-	PSPPH_0725	Psyr_0714; Psyr_0715
+		fimV	MMBGCLAI_02582	PLES_19441	PSPA7_2018	PA3115	PA14_23830	PSEEN1688	PFL_2069	Pfl_1895	Pmen_2718	PP_1993	PputW619_1554	PST_1777	-	PSPPH_1655	Psyr_1661
+		pilA	-	PLES_49071	PSPA7_5161	PA4525	PA14_58730	PSEEN4666	PFL_5287	Pfl_4819	Pmen_0777	PP_0634	PputW619_4536	PST_1054	-	PSPPH_0821	Psyr_0799
+		pilB	MMBGCLAI_03639	PLES_49091	PSPA7_5162	PA4526	PA14_58750	-	-	Pfl_4820	Pmen_0775	-	-	PST_1055	-	PSPPH_0820	Psyr_0798
+		pilC	MMBGCLAI_03638	PLES_49101	PSPA7_5163	PA4527	PA14_58760	PSEEN4667	PFL_5288	Pfl_4821	Pmen_0774	PP_0633	PputW619_4537	PST_1056	-	PSPPH_0819	Psyr_0797
+		pilD	MMBGCLAI_03637	PLES_49111	PSPA7_5164	PA4528	PA14_58770	PSEEN4668	PFL_5289	Pfl_4822	Pmen_0773	PP_0632	PputW619_4538	PST_1057	-	PSPPH_0818	Psyr_0796
+		pilE	-	PLES_49391	PSPA7_5196	PA4556	PA14_60320	PSEEN4684	PFL_5311	Pfl_4842	Pmen_0957	PP_0611	PputW619_4551	PST_0968	-	PSPPH_0731	Psyr_0720
+		pilF	MMBGCLAI_03357	PLES_11691	PSPA7_1309	PA3805	PA14_14850	PSEEN1019	PFL_4956	Pfl_4603	Pmen_3502	PP_0851	PputW619_4327	PST_3033	-	PSPPH_1318	Psyr_1246
+		pilM	MMBGCLAI_00680	PLES_54341	PSPA7_5781	PA5044	PA14_66660	PSEEN0330	PFL_0445	Pfl_0405	Pmen_0542	PP_5083	PputW619_0383	PST_0553	-	PSPPH_0390	Psyr_0403
+		pilN	MMBGCLAI_00681	PLES_54331	PSPA7_5780	PA5043	PA14_66650	PSEEN0331	PFL_0446	Pfl_0406	Pmen_0543	PP_5082	PputW619_0384	PST_0554	-	PSPPH_0391	Psyr_0404
+		pilO	MMBGCLAI_00682	PLES_54321	PSPA7_5779	PA5042	PA14_66640	-	PFL_0447	Pfl_0407	Pmen_0544	-	-	PST_0555	-	PSPPH_0392	Psyr_0405
+		pilP	MMBGCLAI_00683	PLES_54311	PSPA7_5778	PA5041	PA14_66630	PSEEN0332	PFL_0448	Pfl_0408	Pmen_0545	PP_5081	PputW619_0385	PST_0556	-	PSPPH_0393	Psyr_0406
+		pilQ	MMBGCLAI_00684	PLES_54301	PSPA7_5777	PA5040	PA14_66620	PSEEN0333	PFL_0449	Pfl_0409	Pmen_0546	PP_5080	PputW619_0386	PST_0557	-	PSPPH_0394	Psyr_0407
+		pilR	MMBGCLAI_01196; MMBGCLAI_03664	PLES_49301	PSPA7_5187	PA4547	PA14_60260	-	PFL_5309	Pfl_4840	Pmen_0965	-	-	PST_3646	-	PSPPH_0736	Psyr_0722
+		pilS	MMBGCLAI_03663	PLES_49291	PSPA7_5186	PA4546	PA14_60250	-	-	Pfl_4839	Pmen_0966	-	-	PST_3645	-	PSPPH_0737	Psyr_0723
+		pilT	MMBGCLAI_00723	PLES_03931	PSPA7_0495	PA0395	PA14_05180	PSEEN0319	PFL_5837	Pfl_5318	Pmen_4149	PP_5093	PputW619_0372	PST_3965	-	PSPPH_0469	Psyr_0478
+		pilU	MMBGCLAI_00724	PLES_03941	PSPA7_0496	PA0396	PA14_05190	-	-	Pfl_3082	Pmen_4148	-	-	PST_3964	-	PSPPH_2319	Psyr_2906
+		pilV	-	PLES_49341	PSPA7_5191	PA4551	-	-	-	Pfl_4846	Pmen_0961	-	-	PST_0973	-	-	-
+		pilW	-	PLES_49351	PSPA7_5192	PA4552	PA14_60290	-	-	Pfl_4845	Pmen_0960	-	-	PST_0972	-	-	-
+		pilX	-	PLES_49361	PSPA7_5193	PA4553	PA14_60300	-	-	Pfl_4844	Pmen_0959	-	-	PST_0971	-	-	-
+		pilY1	MMBGCLAI_03671	PLES_49371	PSPA7_5194	PA4554	PA14_60310	-	PFL_5312	Pfl_4843	Pmen_0958	-	-	PST_0970	-	PSPPH_0730	Psyr_0719
+		pilY2	-	PLES_49381	PSPA7_5195	PA4555	-	-	-	-	-	-	-	PST_0969	-	-	-
+		pilZ	MMBGCLAI_03217	PLES_21031	PSPA7_2201	PA2960	PA14_25770	-	-	Pfl_4150	Pmen_1635	-	-	PST_2615	-	-	Psyr_1654
+	Type IV pili twitching motility related proteins	chpA	MMBGCLAI_00740	PLES_04111	PSPA7_0513	PA0413	PA14_05390	PSEEN5051	PFL_5823	Pfl_5304	Pmen_0408	PP_4988	PputW619_0476	PST_3948	-	PSPPH_0483	Psyr_0492
+		chpB	MMBGCLAI_00741	PLES_04121	PSPA7_0514	PA0414	PA14_05400	-	-	-	Pmen_0409	-	-	PST_3947	-	-	-
+		chpC	MMBGCLAI_00742	PLES_04131	PSPA7_0515	PA0415	PA14_05410	PSEEN5050	PFL_5822	Pfl_5303	Pmen_0410	PP_4987	PputW619_0477	PST_3946	-	PSPPH_0484	Psyr_0493
+		chpD	-	PLES_04141	PSPA7_0516	PA0416	PA14_05420	-	-	-	-	-	-	-	-	-	-
+		chpE	-	PLES_04151	PSPA7_0517	PA0417	PA14_05430	-	-	-	Pmen_0661	-	-	-	-	-	-
+		pilG	MMBGCLAI_00735	PLES_04061	PSPA7_0508	PA0408	PA14_05320	PSEEN5055	PFL_5827	Pfl_5308	Pmen_0403	PP_4992	PputW619_0472	PST_3953	-	PSPPH_0479	Psyr_0488
+		pilH	MMBGCLAI_00736	PLES_04071	PSPA7_0509	PA0409	PA14_05330	PSEEN5054	PFL_5826	Pfl_5307	Pmen_0404	PP_4991	PputW619_0473	PST_3952	-	PSPPH_0480	Psyr_0489
+		pilI	MMBGCLAI_00737	PLES_04081	PSPA7_0510	PA0410	PA14_05340	PSEEN5053	PFL_5825	Pfl_5306	Pmen_0405	PP_4990	PputW619_0474	PST_3951	-	PSPPH_0481	Psyr_0490
+		pilJ	MMBGCLAI_00738	PLES_04091	PSPA7_0511	PA0411	PA14_05360	PSEEN5052	PFL_5824	Pfl_5305	Pmen_0406	PP_4989	PputW619_0475	PST_3950	-	PSPPH_0482	Psyr_0491
+		pilK	MMBGCLAI_00739	PLES_04101	PSPA7_0512	PA0412	PA14_05380	-	-	-	Pmen_0407	-	-	PST_3949	-	-	-
+	Polar flagella(Aeromonas)	cheV	MMBGCLAI_01763	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Antimicrobial activity	Phenazines biosynthesis	phzA1	-	PLES_07171	PSPA7_0888	PA4210	PA14_09480	-	-	-	-	-	-	-	-	-	-
+		phzA2	-	PLES_34251	PSPA7_3385	PA1899	PA14_39970	-	-	-	-	-	-	-	-	-	-
+		phzB1	-	PLES_07161	PSPA7_0888	PA4211	PA14_09470	-	-	-	-	-	-	-	-	-	-
+		phzB2	-	PLES_34241	PSPA7_3384	PA1900	PA14_39960	-	-	-	-	-	-	-	-	-	-
+		phzC1	-	PLES_07151	PSPA7_0887	PA4212	PA14_09460	-	-	-	-	-	-	-	-	-	-
+		phzC2	-	PLES_34231	PSPA7_3383	PA1901	PA14_39945	-	-	-	-	-	-	-	-	-	-
+		phzD1	-	PLES_07141	PSPA7_0886	PA4213	PA14_09450	-	-	-	-	-	-	-	-	-	-
+		phzD2	MMBGCLAI_02932	PLES_34221	PSPA7_3382	PA1902	PA14_39925	-	-	-	-	-	-	-	-	-	-
+		phzE1	-	PLES_07131	PSPA7_0885	PA4214	PA14_09440	-	-	-	-	-	-	-	-	-	-
+		phzE2	-	PLES_34211	PSPA7_3381	PA1903	PA14_39910	-	-	-	-	-	-	-	-	-	-
+		phzF1	-	PLES_07121	PSPA7_0884	PA4215	PA14_09420	-	-	-	-	-	-	-	-	-	-
+		phzF2	-	PLES_34201	PSPA7_3380	PA1904	PA14_39890	-	-	-	-	-	-	-	-	-	-
+		phzG1	-	PLES_07111	PSPA7_0883	PA4216	PA14_09410	-	-	-	-	-	-	-	-	-	-
+		phzG2	-	PLES_34191	PSPA7_3379	PA1905	PA14_39880	-	-	-	-	-	-	-	-	-	-
+		phzH	-	PLES_00521	-	PA0051	PA14_00640	-	-	-	-	-	-	-	-	-	-
+		phzM	-	PLES_07181	PSPA7_0889	PA4209	PA14_09490	-	-	-	-	-	-	-	-	-	-
+		phzS	-	PLES_07101	PSPA7_0881	PA4217	PA14_09400	-	-	-	-	-	-	-	-	-	-
+Antiphagocytosis	Alginate biosynthesis	alg44	-	PLES_14911	PSPA7_1603	PA3542	PA14_18550	PSEEN4537	PFL_1022	Pfl_0958	Pmen_1029	PP_1286	PputW619_0887	-	-	PSPPH_1116	Psyr_1061
+		alg8	-	PLES_14921	PSPA7_1604	PA3541	PA14_18565	PSEEN4536	PFL_1023	Pfl_0959	Pmen_1030	PP_1287	PputW619_0888	-	-	PSPPH_1117	Psyr_1062
+		algA	MMBGCLAI_00822	PLES_14821	PSPA7_1594	PA3551	PA14_18380	PSEEN4546	PFL_1013	Pfl_0949	Pmen_1020	PP_1277	PputW619_0878	PST_1169	-	PSPPH_1107	Psyr_1052
+		algC	MMBGCLAI_04475	PLES_57171	PSPA7_6098	PA5322	PA14_70270	PSEEN5434	PFL_6054	Pfl_5542	Pmen_4379	PP_5288	PputW619_0183	PST_0470	-	PSPPH_0207	Psyr_0219
+		algD	-	PLES_14931	PSPA7_1605	PA3540	PA14_18580	PSEEN4535	PFL_1024	Pfl_0960	Pmen_1031	PP_1288	PputW619_0889	-	-	PSPPH_1118	Psyr_1063
+		algE	-	PLES_14891	PSPA7_1601	PA3544	PA14_18510	PSEEN4539	PFL_1020	Pfl_0956	Pmen_1027	PP_1284	PputW619_0885	-	-	PSPPH_1114	Psyr_1059
+		algF	-	PLES_14831	PSPA7_1595	PA3550	PA14_18410	PSEEN4545	PFL_1014	Pfl_0950	Pmen_1021	PP_1278	PputW619_0879	-	-	PSPPH_1108	Psyr_1053
+		algG	-	PLES_14881	PSPA7_1600	PA3545	PA14_18500	PSEEN4540	PFL_1019	Pfl_0955	Pmen_1026	PP_1283	PputW619_0884	-	-	PSPPH_1113	Psyr_1058
+		algI	MMBGCLAI_00159; MMBGCLAI_01138	PLES_14851	PSPA7_1597	PA3548	PA14_18450	PSEEN4543	PFL_1016	Pfl_0952	Pmen_1023	PP_1280	PputW619_0881	PST_2877	-	PSPPH_1110	Psyr_1055
+		algJ	-	PLES_14841	PSPA7_1596	PA3549	PA14_18430	PSEEN4544	PFL_1015	Pfl_0951	Pmen_1022	PP_1279	PputW619_0880	-	-	PSPPH_1109	Psyr_1054
+		algK	MMBGCLAI_01177	PLES_14901	PSPA7_1602	PA3543	PA14_18520	PSEEN4538	PFL_1021	Pfl_0957	Pmen_1028	PP_1285	PputW619_0886	PST_3760	-	PSPPH_1115	Psyr_1060
+		algL	-	PLES_14861	PSPA7_1598	PA3547	PA14_18470	PSEEN4542	PFL_1017	Pfl_0953	Pmen_1024	PP_1281	PputW619_0882	-	-	PSPPH_1111	Psyr_1056
+		algX	-	PLES_14871	PSPA7_1599	PA3546	PA14_18480	PSEEN4541	PFL_1018	Pfl_0954	Pmen_1025	PP_1282	PputW619_0883	-	-	PSPPH_1112	Psyr_1057
+	Alginate regulation	algP/algR3	-	PLES_56471	PSPA7_5998	PA5253	PA14_69370	PSEEN0161	PFL_5995	Pfl_5480	Pmen_0287	PP_0194	PputW619_0263	PST_0530	-	PSPPH_0059	Psyr_0054
+		algQ	MMBGCLAI_04294	PLES_56491	PSPA7_6001	PA5255	PA14_69390	PSEEN0159	PFL_5997	Pfl_5482	Pmen_0285	PP_0191	PputW619_0261	PST_0529	-	PSPPH_0061	Psyr_0056
+		algR	MMBGCLAI_04300	PLES_56551	PSPA7_6007	PA5261	PA14_69470	PSEEN5354	PFL_6003	Pfl_5488	Pmen_0279	PP_0185	PputW619_0255	PST_0523	-	PSPPH_0069	Psyr_0063
+		algU	MMBGCLAI_00991	PLES_45811	PSPA7_4757	PA0762	PA14_54430	PSEEN4296	PFL_1448	Pfl_1362	Pmen_1467	PP_1427	PputW619_1067	PST_1223	-	PSPPH_3955	Psyr_3958
+		algW	MMBGCLAI_01316	PLES_48251	PSPA7_5018	PA4446	PA14_57760	PSEEN4521	PFL_0933	Pfl_0875	Pmen_0888	PP_1301	PputW619_0908	PST_1048	-	PSPPH_4135	Psyr_4130
+		algZ	MMBGCLAI_04301	PLES_56561	PSPA7_6008	PA5262	PA14_69480	-	-	-	Pmen_0278	-	-	PST_0522	-	PSPPH_0070	Psyr_0064
+		mucA	MMBGCLAI_00992	PLES_45801	PSPA7_4756	PA0763	PA14_54420	PSEEN4295	PFL_1449	Pfl_1363	Pmen_1468	PP_1428	PputW619_1068	PST_1224	-	PSPPH_3954	Psyr_3957
+		mucB	-	PLES_45791	PSPA7_4755	PA0764	PA14_54410	PSEEN4294	PFL_1450	Pfl_1364	Pmen_1469	PP_1429	PputW619_1069	PST_1225	-	PSPPH_3953	Psyr_3956
+		mucC	-	PLES_45781	PSPA7_4754	PA0765	PA14_54400	-	-	-	Pmen_1470	-	-	PST_1226	-	-	-
+		mucD	MMBGCLAI_00993	PLES_45771	PSPA7_4753	PA0766	PA14_54390	PSEEN4293	PFL_1451	Pfl_1365	Pmen_1471	PP_1430	PputW619_1070	PST_1227	-	PSPPH_3952	Psyr_3955
+		mucE	-	PLES_09431	PSPA7_1072	PA4033	PA14_11670	-	-	-	-	-	-	-	-	-	-
+		mucP	MMBGCLAI_01332	PLES_13861	PSPA7_1490	PA3649	PA14_17140	PSEEN4213	PFL_1183	Pfl_1108	Pmen_3046	PP_1598	PputW619_4075	PST_1544	-	PSPPH_3833	Psyr_1350
+	Capsular polysaccharide(Vibrio)	rmlB	MMBGCLAI_03022	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		rmlC	MMBGCLAI_03020	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Capsule I(Burkholderia)	gmd-1	MMBGCLAI_00143	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Capsule(Klebsiella)	probable wbaZ	MMBGCLAI_04325	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Biosurfactant	Rhamnolipid biosynthesis	rhlA	-	PLES_15331	PSPA7_1647	PA3479	PA14_19100	-	-	-	-	-	-	-	-	-	-
+		rhlB	-	PLES_15341	PSPA7_1648	PA3478	PA14_19110	-	-	-	-	-	-	-	-	-	-
+		rhlC	-	PLES_41891	-	PA1130	PA14_49760	-	-	-	-	-	-	-	-	-	-
+Enzyme	Hemolytic phospholipase C	plcH	-	PLES_44741	PSPA7_4676	PA0844	PA14_53360	-	-	-	-	-	-	-	-	-	-
+	Non-hemolytic phospholipase C	plcN	-	PLES_17461	PSPA7_1801	PA3319	PA14_21110	-	PFL_3126	-	-	-	-	-	-	-	-
+	Phospholipase C	plcB	-	PLES_00251	PSPA7_0027	PA0026	PA14_00300	-	-	-	-	-	-	-	-	-	-
+	Phospholipase D	pldA	-	-	-	PA3487	PA14_18970	-	-	-	-	-	-	-	-	-	-
+Iron uptake	Achromobactin biosynthesis and transport	acsA	-	-	PSPA7_3092	-	-	-	-	-	-	-	-	-	-	PSPPH_2756	Psyr_2589
+		acsB	-	-	PSPA7_3089	-	-	-	-	-	-	-	-	-	-	PSPPH_2755	Psyr_2588
+		acsC	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2754	Psyr_2587
+		acsD	-	-	PSPA7_3094	-	-	-	-	-	-	-	-	-	-	PSPPH_2751	Psyr_2584
+		cbrA	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2757	Psyr_2590
+		cbrB	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2758	Psyr_2591
+		cbrC	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2759	Psyr_2592
+		cbrD	MMBGCLAI_02939; MMBGCLAI_03304	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2760	Psyr_2593
+	Pyochelin receptor	fptA	-	PLES_07061	PSPA7_0879	PA4221	PA14_09340	-	PFL_2293	-	-	-	-	-	-	-	-
+	Pyochelin	pchA	-	PLES_06961	PSPA7_0869	PA4231	PA14_09210	PSEEN2504	PFL_3488	-	-	-	-	-	-	PSPPH_2904	-
+		pchB	-	PLES_06971	PSPA7_0870	PA4230	PA14_09220	PSEEN2507	PFL_3489	-	-	-	-	-	-	PSPPH_2903	-
+		pchC	-	PLES_06981	PSPA7_0871	PA4229	PA14_09230	-	PFL_3490	-	-	-	-	-	-	-	-
+		pchD	MMBGCLAI_02933	PLES_06991	PSPA7_0872	PA4228	PA14_09240	PSEEN2505	PFL_3496	-	-	-	-	-	-	-	-
+		pchE	-	PLES_07011	PSPA7_0874	PA4226	PA14_09270	-	PFL_3493	-	-	-	-	-	-	-	-
+		pchF	-	PLES_07021	PSPA7_0875	PA4225	PA14_09280	-	PFL_3492	-	-	-	-	-	-	-	-
+		pchG	-	PLES_07031	PSPA7_0876	PA4224	PA14_09290	-	-	-	-	-	-	-	-	-	-
+		pchH	-	PLES_07041	PSPA7_0877	PA4223	PA14_09300	-	PFL_3495	-	-	-	-	-	-	-	-
+		pchI	-	PLES_07051	PSPA7_0878	PA4222	PA14_09320	-	PFL_3494	-	-	-	-	-	-	-	-
+		pchR	-	PLES_07001	PSPA7_0873	PA4227	PA14_09260	-	PFL_3497	-	-	-	-	-	-	-	-
+	Pyoverdine receptors	fpvA	MMBGCLAI_01391; MMBGCLAI_01483; MMBGCLAI_01942; MMBGCLAI_02167; MMBGCLAI_02943; MMBGCLAI_03969	PLES_28981; PLES_29011; PLES_29041	PSPA7_2861	PA2398	PA14_33680	PSEEN2529	PFL_2391	Pfl_2583	Pmen_4556	PP_4217	-	-	-	PSPPH_1870	Psyr_1961
+	Pyoverdine	pvdA	MMBGCLAI_02163	PLES_29161	PSPA7_2874	PA2386	PA14_33810	PSEEN3223	PFL_4079	Pfl_1859	Pmen_2871	PP_3796	PputW619_2095	-	-	PSPPH_2415	Psyr_2746
+		pvdD	-	PLES_28971	-	PA2399	PA14_33650	-	PFL_4094	-	-	PP_4219	PputW619_3541	-	-	PSPPH_1925	Psyr_1959
+		pvdE	MMBGCLAI_02162	PLES_28991; PLES_29021; PLES_29051	PSPA7_2862	PA2397	PA14_33690	PSEEN3224	PFL_4091	Pfl_1850	-	PP_4216	PputW619_3540	-	-	PSPPH_1929	Psyr_1963
+		pvdF	-	PLES_29061	PSPA7_2863	PA2396	PA14_33700	-	PFL_4090	-	-	-	-	-	-	-	-
+		pvdG	-	PLES_28701	PSPA7_2828	PA2425	PA14_33270	-	-	-	-	-	-	-	-	PSPPH_1910	Psyr_1944
+		pvdH	MMBGCLAI_02166	PLES_28831	PSPA7_2846	PA2413	PA14_33500	PSEEN3669	PFL_4179	Pfl_3932	Pmen_2868	PP_4223	PputW619_3548	-	-	PSPPH_1912	Psyr_1946
+		pvdI	MMBGCLAI_03414	PLES_28951	PSPA7_2859	PA2402	PA14_33610	PSEEN3229	PFL_4093	-	-	-	PputW619_3546	-	-	-	-
+		pvdJ	-	PLES_28961	PSPA7_2860	PA2400	PA14_33630	-	-	-	-	-	-	-	-	-	-
+		pvdL	-	PLES_28711	PSPA7_2829	PA2424	PA14_33280	PSEEN1815	PFL_4189	Pfl_3940	-	PP_4243	PputW619_3562	-	-	PSPPH_1911	Psyr_1945
+		pvdM	-	PLES_29091	PSPA7_2866	PA2393	PA14_33730	PSEEN3220	PFL_4087	Pfl_1853	-	PP_4213	PputW619_3537	-	-	PSPPH_1932	Psyr_1966
+		pvdN	-	PLES_29081	PSPA7_2865	PA2394	PA14_33720	PSEEN3221	PFL_4088	Pfl_1852	-	PP_4214	PputW619_3538	-	-	PSPPH_1931	Psyr_1965
+		pvdO	-	PLES_29071	PSPA7_2864	PA2395	PA14_33710	PSEEN3222	PFL_4089	Pfl_1851	-	PP_4215	PputW619_3539	-	-	PSPPH_1930	Psyr_1964
+		pvdP	-	PLES_29101	PSPA7_2868	PA2392	PA14_33740	PSEEN3667	PFL_4086	Pfl_1854	-	PP_4212	PputW619_3536	-	-	PSPPH_1933	Psyr_1967
+		pvdQ	-	PLES_29171	PSPA7_2876	PA2385	PA14_33820	PSEEN2083	PFL_2902	Pfl_2563	-	PP_2901	PputW619_2403	-	-	PSPPH_1937	Psyr_1971
+		pvdS	-	PLES_28691	PSPA7_2827	PA2426	PA14_33260	PSEEN1814	PFL_4190	Pfl_3941	Pmen_2873	PP_4244	PputW619_3563	-	-	PSPPH_1909	Psyr_1943
+		pvdY	MMBGCLAI_02172	PLES_28681	PSPA7_2826	PA2427	PA14_33250	PSEEN1813	PFL_4191	-	-	PP_4245	PputW619_3564	-	-	-	-
+	Yersiniabactin	fyuA	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2894	-
+		irp1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2899	-
+		irp2	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2897	-
+		irp3	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2900	-
+		irp4	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2901	-
+		irp5	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2902	-
+		ybtA	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2893	-
+		ybtP	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2895	-
+		ybtQ	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2896	-
+	Brucebactin(Brucella)	dhbA	MMBGCLAI_02931	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Cytochrome c maturation (ccm) locus(Legionella)	ccmE	MMBGCLAI_02843	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Ent siderophore(Klebsiella)		MMBGCLAI_02934	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+			MMBGCLAI_02935	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+			MMBGCLAI_02938	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+			MMBGCLAI_02940	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+			MMBGCLAI_02942	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Iron/manganese transport(Escherichia)	sitA	MMBGCLAI_04527	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		sitB	MMBGCLAI_04526	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		sitC	MMBGCLAI_04525	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		sitD	MMBGCLAI_04524	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Protease	Alkaline protease	aprA	-	PLES_40631	PSPA7_4143	PA1249	PA14_48060	PSEEN1550	PFL_2483	Pfl_3363	-	-	-	-	-	-	Psyr_3163
+	Elastase	lasA	-	PLES_34521	PSPA7_3417	PA1871	PA14_40290	-	-	-	-	-	-	-	-	-	-
+		lasB	-	PLES_12581	PSPA7_1397	PA3724	PA14_16250	-	-	-	-	-	-	-	-	-	-
+	Protease IV	prpL	-	PLES_07521	PSPA7_0919	PA4175	PA14_09900	-	-	-	-	-	-	-	-	-	-
+Quorum sensing	Acylhomoserine lactone synthase	hdtS	MMBGCLAI_00005	PLES_00041	PSPA7_0005	PA0005	PA14_00060	PSEEN0014	PFL_0011	Pfl_0007	Pmen_0011	PP_0058	PputW619_0077	PST_0007	-	PSPPH_0009	Psyr_0009
+	N-(3-oxo-dodecanoyl)-L-homoserine lactone QS system	lasI	-	PLES_39821	PSPA7_3897	PA1432	PA14_45940	-	-	-	-	-	-	-	-	-	-
+		lasR	-	PLES_39841	PSPA7_3898	PA1430	PA14_45960	-	-	-	-	-	-	-	-	-	-
+	N-(3-oxo-hexanoyl)-L-homoserine lactone QS system	ahlI	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1614	Psyr_1621
+		ahlR	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1615	Psyr_1622
+	N-(butanoyl)-L-homoserine lactone QS system	rhlI	-	PLES_15361	PSPA7_1650	PA3476	PA14_19130	-	-	-	-	-	-	-	-	-	-
+		rhlR	-	PLES_15351	PSPA7_1649	PA3477	PA14_19120	-	-	-	-	-	-	-	-	-	-
+Regulation	GacS/GacA two-component system	gacA	MMBGCLAI_02059	PLES_26021	PSPA7_2613	PA2586	PA14_30650	PSEEN3450	PFL_3563	Pfl_3067	Pmen_2375	PP_4099	PputW619_3375	PST_2085	-	PSPPH_2328	Psyr_2897
+		gacS	MMBGCLAI_02855	PLES_43881	PSPA7_4582	PA0928	PA14_52260	PSEEN1359	PFL_4451	Pfl_4222	Pmen_1730	PP_1650	PputW619_1212	PST_2674	-	PSPPH_3719	Psyr_3698
+Secretion system	Harpins	hopP1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hrpA1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hrpA2	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1272	Psyr_1192
+		hrpK1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1295	Psyr_1218
+		hrpW1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1264	Psyr_1184
+		hrpZ1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1273	Psyr_1193
+	Hcp secretion island-1 encoded type VI secretion system (H-T6SS)	Undetermined	-	PLES_00721	PSPA7_0142	PA0071	PA14_00830	-	PFL_6075	-	Pmen_2310	-	-	-	-	-	Psyr_2626
+		Undetermined	-	PLES_00731	PSPA7_0143	PA0072	PA14_00850	-	PFL_6076	-	Pmen_2311	-	-	-	-	-	Psyr_2627
+		Undetermined	-	PLES_00741	PSPA7_0144	PA0073	PA14_00860	-	PFL_6077	-	Pmen_2312	-	-	-	-	-	Psyr_2628
+		Undetermined	-	PLES_00771	PSPA7_0147	PA0076	PA14_00900	-	PFL_6080	-	Pmen_2315	-	-	-	-	-	-
+		Undetermined	-	PLES_00791	PSPA7_0149	PA0078	PA14_00925	-	PFL_6082	-	Pmen_2317	-	-	-	-	-	-
+		Undetermined	-	PLES_00801	PSPA7_0150	PA0079	PA14_00940	-	PFL_6083	-	Pmen_2318	PP_4080	PputW619_2503; PputW619_3259	-	-	PSPPH_0127	Psyr_4960
+		Undetermined	-	PLES_00811	PSPA7_0151	PA0080	PA14_00960	-	PFL_6084	-	Pmen_2319	PP_4079	-	-	-	-	-
+		Undetermined	-	PLES_00831	PSPA7_0154	PA0082	PA14_00990	-	PFL_6086	-	Pmen_2321	-	-	-	-	-	-
+		Undetermined	-	PLES_00841	PSPA7_0155	PA0083	PA14_01010	-	PFL_6087	-	Pmen_2322	-	-	-	-	-	-
+		Undetermined	-	PLES_00851	PSPA7_0156	PA0084	PA14_01020	-	PFL_6088	-	Pmen_2323	-	-	-	-	-	-
+		Undetermined	-	PLES_00871	PSPA7_0158	PA0086	PA14_01040	-	-	-	Pmen_2327	-	-	-	-	-	-
+		Undetermined	-	PLES_00881	PSPA7_0159	PA0087	PA14_01060	-	PFL_6090	-	Pmen_2328	PP_3098	PputW619_2508	-	-	-	-
+		Undetermined	-	PLES_00891	PSPA7_0160	PA0088	PA14_01070	-	PFL_6091	-	Pmen_2329	PP_3097	PputW619_2507	-	-	PSPPH_0131	Psyr_4956
+		Undetermined	-	PLES_00901	PSPA7_0161	PA0089	PA14_01080	-	PFL_6092	-	Pmen_2330	PP_3096	PputW619_2506	-	-	PSPPH_0130	Psyr_4957
+		clpV1	-	PLES_00911	PSPA7_0162	PA0090	PA14_01100	-	PFL_6093	-	Pmen_2331	PP_3095	PputW619_2505	-	-	PSPPH_0129	Psyr_4958
+		fha1	-	PLES_00821	PSPA7_0152	PA0081	PA14_00980	-	PFL_6085	-	Pmen_2320	-	-	-	-	-	-
+		hcp1	-	PLES_00861	PSPA7_0157	PA0085	PA14_01030	-	PFL_6089	-	Pmen_2324	PP_3089	PputW619_0770; PputW619_2498	-	-	PSPPH_0164	Psyr_1935
+		icmF1	-	PLES_00781	PSPA7_0148	PA0077	PA14_00910	-	PFL_6081	-	Pmen_2316	PP_2627	PputW619_2501	-	-	PSPPH_0123	Psyr_4964
+		ppkA	-	PLES_00751	PSPA7_0145	PA0074	PA14_00875	-	PFL_6078	-	Pmen_2313	-	-	-	-	-	Psyr_2629
+		pppA	-	PLES_00761	PSPA7_0146	PA0075	PA14_00890	-	PFL_6079	-	Pmen_2314	-	-	-	-	-	-
+		vgrG1	MMBGCLAI_04230	PLES_00921	PSPA7_0163	PA0091	PA14_01110	-	PFL_6094	-	-	-	-	-	-	-	-
+	P. aeruginosa TTSS translocated effectors	exoS	-	PLES_11331	-	PA3841	-	-	-	-	-	-	-	-	-	-	-
+		exoT	-	PLES_00451	-	PA0044	PA14_00560	-	-	-	-	-	-	-	-	-	-
+		exoU	-	-	-	-	PA14_51530	-	-	-	-	-	-	-	-	-	-
+		exoY	-	PLES_31341	-	PA2191	PA14_36345	-	-	-	-	-	-	-	-	-	-
+	P. aeruginosa TTSS	exsA	-	PLES_36161	-	PA1713	PA14_42390	-	-	-	-	-	-	-	-	-	-
+		exsB	-	PLES_36171	-	PA1712	PA14_42400	-	-	-	-	-	-	-	-	-	-
+		exsC	-	PLES_36181	-	PA1710	PA14_42430	-	-	-	-	-	-	-	-	-	-
+		exsD	-	PLES_36151	-	PA1714	PA14_42380	-	-	-	-	-	-	-	-	-	-
+		exsE	-	-	-	PA1711	PA14_42410	-	-	-	-	-	-	-	-	-	-
+		pcr1	-	PLES_36281	-	PA1699	PA14_42540	-	-	-	-	-	-	-	-	-	-
+		pcr2	-	PLES_36271	-	PA1700	PA14_42530	-	-	-	-	-	-	-	-	-	-
+		pcr3	-	PLES_36261	-	PA1701	PA14_42520	-	-	-	-	-	-	-	-	-	-
+		pcr4	-	PLES_36251	-	PA1702	PA14_42510	-	-	-	-	-	-	-	-	-	-
+		pcrD	-	PLES_36241	-	PA1703	PA14_42500	-	-	-	-	-	-	-	-	-	-
+		pcrG	-	PLES_36221	-	PA1705	PA14_42480	-	-	-	-	-	-	-	-	-	-
+		pcrH	-	-	-	PA1707	PA14_42460	-	-	-	-	-	-	-	-	-	-
+		pcrR	-	PLES_36231	-	PA1704	PA14_42490	-	-	-	-	-	-	-	-	-	-
+		pcrV	-	PLES_36211	-	PA1706	PA14_42470	-	-	-	-	-	-	-	-	-	-
+		popB	-	PLES_36201	-	PA1708	PA14_42450	-	-	-	-	-	-	-	-	-	-
+		popD	-	PLES_36191	-	PA1709	PA14_42440	-	-	-	-	-	-	-	-	-	-
+		popN	-	PLES_36291	-	PA1698	PA14_42550	-	-	-	-	-	-	-	-	-	-
+		pscB	-	PLES_36141	-	PA1715	PA14_42360	-	-	-	-	-	-	-	-	-	-
+		pscC	-	PLES_36131	-	PA1716	PA14_42350	-	-	-	-	-	-	-	-	-	-
+		pscD	-	PLES_36121	-	PA1717	PA14_42340	-	-	-	-	-	-	-	-	-	-
+		pscE	-	PLES_36111	-	PA1718	PA14_42320	-	-	-	-	-	-	-	-	-	-
+		pscF	-	PLES_36101	-	PA1719	PA14_42310	-	-	-	-	-	-	-	-	-	-
+		pscG	-	PLES_36091	-	PA1720	PA14_42300	-	-	-	-	-	-	-	-	-	-
+		pscH	-	PLES_36081	-	PA1721	PA14_42290	-	-	-	-	-	-	-	-	-	-
+		pscI	-	PLES_36071	-	PA1722	PA14_42280	-	-	-	-	-	-	-	-	-	-
+		pscJ	-	PLES_36061	-	PA1723	PA14_42270	-	-	-	-	-	-	-	-	-	-
+		pscK	-	PLES_36051	-	PA1724	PA14_42260	-	-	-	-	-	-	-	-	-	-
+		pscL	-	PLES_36041	-	PA1725	PA14_42250	-	-	-	-	-	-	-	-	-	-
+		pscN	-	PLES_36301	-	PA1697	PA14_42570	-	-	-	-	-	-	-	-	-	-
+		pscO	-	PLES_36311	-	PA1696	PA14_42580	-	-	-	-	-	-	-	-	-	-
+		pscP	-	-	-	PA1695	PA14_42600	-	-	-	-	-	-	-	-	-	-
+		pscQ	-	PLES_36321	-	PA1694	PA14_42610	-	-	-	-	-	-	-	-	-	-
+		pscR	-	PLES_36331	-	PA1693	PA14_42620	-	-	-	-	-	-	-	-	-	-
+		pscS	-	PLES_36341	-	PA1692	PA14_42630	-	-	-	-	-	-	-	-	-	-
+		pscT	-	PLES_36351	-	PA1691	PA14_42640	-	-	-	-	-	-	-	-	-	-
+		pscU	-	PLES_36361	-	PA1690	PA14_42660	-	-	-	-	-	-	-	-	-	-
+	P. syringae TTSS effectors	avrB2	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_A0120	-	-
+		avrB3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_1219
+		avrB4-1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_3028	-
+		avrB4-2	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_0784	-
+		avrD1	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_A0113	-	-
+		avrE1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1268	Psyr_1188
+		avrPto1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_4919
+		avrRpm1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_0738
+		avrRps4	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_A0087	-	-
+		hopA1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAA1'	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1263*	-
+		hopAA1-1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAA1-2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAA1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_1183
+		hopAB1	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_A0127	-	Psyr_4659
+		hopAB2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAB3'	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2294*	-
+		hopAC1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_0527
+		hopAC	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAD1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAE1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4326	Psyr_4269
+		hopAF1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1443	Psyr_3813
+		hopAG1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_0778
+		hopAG	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAH1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_0779
+		hopAH2-1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAH2-2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAH2	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_3036	Psyr_3123
+		hopAI1'	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_0780*
+		hopAI1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAJ1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_0763	-
+		hopAJ2	MMBGCLAI_01161	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4398	Psyr_4357
+		hopAK1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1424	Psyr_3839
+		hopAM1-1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAM1-2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAN1	MMBGCLAI_01973; MMBGCLAI_03329	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_0456	Psyr_0465
+		hopAO1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAP1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_1890
+		hopAQ1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAS1'	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAS1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4736	-
+		hopAT1'	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopAT1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_5225	-
+		hopAU1	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_A0031	-	-
+		hopAV1	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_A0056	-	-
+		hopAW1	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_A0122	-	-
+		hopB1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopC1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopD1	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_A0010	-	-
+		hopD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopE1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopF2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopF3	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_3498	-
+		hopG1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_0767	-
+		hopH1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_1889
+		hopI1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4366	Psyr_4326
+		hopJ1	MMBGCLAI_03516	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1068	Psyr_1017
+		hopK1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopL1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_2631
+		hopM1'	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1266*	-
+		hopM1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_1186
+		hopN1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopO1-1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopO1-3'	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopP1-2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopQ1-1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopQ1-2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopQ1	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_A0012	-	-
+		hopR1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_0171	-
+		hopS1'	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopS2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopT1-1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopT1-2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopT2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopU1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopV1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2351	-
+		hopW1-1	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_A0009	-	-
+		hopW1-2	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_A0075	-	-
+		hopX1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1296	Psyr_1220
+		hopY1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		hopZ3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_1224
+	P. syringae TTSS	hrcC	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1280	Psyr_1200
+		hrcJ	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1275	Psyr_1195
+		hrcN	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1290	Psyr_1213
+		hrcQa	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1287	Psyr_1210
+		hrcQb	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1286	Psyr_1209
+		hrcR	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1285	Psyr_1208
+		hrcS	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1284	Psyr_1207
+		hrcT	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1283	Psyr_1206
+		hrcU	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1282	Psyr_1205
+		hrcV	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1292	Psyr_1215
+		hrpB	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1274	Psyr_1194
+		hrpD	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1276	Psyr_1196
+		hrpE	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1277	Psyr_1197
+		hrpF	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1278	Psyr_1198
+		hrpG	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1279	Psyr_1199
+		hrpJ	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1293	Psyr_1216
+		hrpL	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1294	Psyr_1217
+		hrpO	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1289	Psyr_1212
+		hrpP	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1288	Psyr_1211
+		hrpQ	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1291	Psyr_1214
+		hrpR	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1270	Psyr_1190
+		hrpS	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1271	Psyr_1191
+		hrpT	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_1201
+		hrpV	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1281	Psyr_1202
+		shcA	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		shcE	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1267	Psyr_1187
+		shcF	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_3499	-
+		shcM	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_1265	Psyr_1185
+		shcN	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		shcS1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		shcS2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		shcV	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_2352	-
+	EPS type II secretion system(Vibrio)	epsG	MMBGCLAI_03438	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	T2SS (Type II secretion system)(Shigella)	gspE	MMBGCLAI_03440	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	T4SS effectors(Coxiella)		MMBGCLAI_01103	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	T6SS-III(Klebsiella)		MMBGCLAI_00570	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Toxin	Exolysin	exlA	-	-	PSPA7_4642	-	-	PSEEN2177	PFL_4237*	Pfl_3791	-	PP_1449	PputW619_4170	-	-	-	-
+		exlB	-	-	PSPA7_4641	-	-	PSEEN2176	PFL_4236	Pfl_3792	-	PP_1450	PputW619_4169	-	-	-	-
+	Exotoxin A (ETA)	toxA	-	PLES_41711	-	PA1148	PA14_49560	-	-	-	-	-	-	-	-	-	-
+	Hydrogen cyanide production	hcnA	-	PLES_31321	PSPA7_3103	PA2193	PA14_36330	PSEEN5522	PFL_2577	Pfl_3516	-	-	-	-	-	-	-
+		hcnB	-	PLES_31311	PSPA7_3102	PA2194	PA14_36320	PSEEN5521	PFL_2578	Pfl_3515	-	-	-	-	-	-	-
+		hcnC	-	PLES_31301	PSPA7_3101	PA2195	PA14_36310	PSEEN5520	PFL_2579	Pfl_3514	-	-	-	-	-	-	-
+	Phytotoxin coronatine	Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cfa1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cfa2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cfa3	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cfa4	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cfa5	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cfa6	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cfa7	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cfa8	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cfa9	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cfl	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cmaA	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cmaB	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cmaC	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cmaD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cmaE	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cmaT	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		cmaU	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		corP	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		corR	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Phytotoxin phaseolotoxin	Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4299	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4300	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4302	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4303	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4304	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4305	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4306	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4307	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4309	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4310	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4311	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4312	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4314	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4315	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4316	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4317	-
+		Undetermined	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4318	-
+		argD	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4313	-
+		argK	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4319	-
+		cysC1	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4301	-
+		dcd2	-	-	-	-	-	-	-	-	-	-	-	-	-	PSPPH_4308	-
+	Phytotoxin syringomycin	syrB1	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_2611
+		syrB2	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_2610
+		syrC	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_2609
+		syrD	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_2613
+		syrE	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_2608
+		syrF	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_2607
+		syrP	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_2612
+	Phytotoxin syringopeptin	sypA	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_2614
+		sypB	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_2615
+		sypC	-	-	-	-	-	-	-	-	-	-	-	-	-	-	Psyr_2616
+	TccC-type insecticidal toxins	Undetermined	-	-	-	-	-	PSEEN2485; PSEEN2697; PSEEN2788	-	Pfl_0947; Pfl_0948; Pfl_4455; Pfl_4456	-	-	-	-	-	PSPPH_2571; PSPPH_4042; PSPPH_4043	Psyr_0586; Psyr_1051; Psyr_4032; Psyr_4037; Psyr_4038
+Cell surface components	GPL locus(Mycobacterium)	mbtH	MMBGCLAI_02941	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Efflux pump	AcrAB(Klebsiella)		MMBGCLAI_00749	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+		acrB	MMBGCLAI_00781	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Fimbrial adherence determinants	Agf/Csg(Salmonella)	csgG	MMBGCLAI_00130	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Immune evasion	Capsule(Acinetobacter)		MMBGCLAI_01920; MMBGCLAI_03021; MMBGCLAI_04420	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	LPS glucosylation(Shigella)	gtrB	MMBGCLAI_00156	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Invasion	Flagella(Burkholderia)	cheB	MMBGCLAI_01814	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Nutritional factor	Allantoin utilization(Klebsiella)		MMBGCLAI_02738	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Others	O-antigen(Yersinia)		MMBGCLAI_02784	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Serum resistance and immune evastion	LPS(Francisella)		MMBGCLAI_04316	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Stress adaptation	Catalase-peroxidase(Mycobacterium)	katG	MMBGCLAI_03415	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Catalase(Neisseria)	katA	MMBGCLAI_04140	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Manganese transport system(Neisseria)	mntB	MMBGCLAI_02399	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	SodCI(Salmonella)	sodCI	MMBGCLAI_03001	-	-	-	-	-	-	-	-	-	-	-	-	-	-
