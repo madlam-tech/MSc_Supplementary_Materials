@@ -1,0 +1,668 @@
+.
+├── BATCH-scripts
+│   ├── Other_Batch
+│   │   ├── 1-trySRS_40xdepth.sl
+│   │   ├── B2Fq-checkpoint.sl
+│   │   ├── IDBA.sl
+│   │   ├── MDK.sl
+│   │   ├── MM-back-map.sl
+│   │   ├── MM2-CP_plasmid+90.sl
+│   │   ├── MM2-CP_plasmid.sl
+│   │   ├── MM2-consensus-reads.sl
+│   │   ├── MM2-paf.sl
+│   │   ├── RAxML_mauve_combine.sl
+│   │   ├── TryRec.sl
+│   │   ├── Trycycler.sl
+│   │   ├── Xflye_no_gen_i5.sl
+│   │   ├── assembly_spades.sl
+│   │   ├── b2fq.sl
+│   │   ├── barrnap.sl
+│   │   ├── basename-checkpoint.sl
+│   │   ├── basename.sl
+│   │   ├── bash_v6.sl
+│   │   ├── blast_5S_loop.sl
+│   │   ├── bowtie-build.sl
+│   │   ├── bowtie2.sl
+│   │   ├── bowtie2_12-08.sl
+│   │   ├── bowtie2_build.sl
+│   │   ├── bowtie2_check.sl
+│   │   ├── bowtie_check.sl
+│   │   ├── bracken-checkpoint.sl
+│   │   ├── bracken.sl
+│   │   ├── bracken_batch.sl
+│   │   ├── bracken_build.sl
+│   │   ├── canu-2023-04-17.sl
+│   │   ├── canu-checkM.sl
+│   │   ├── canu-metaxa.sl
+│   │   ├── canu-prodigal.sl
+│   │   ├── canu-prokka.sl
+│   │   ├── canu.sl
+│   │   ├── canu_x_10.sl
+│   │   ├── checkM_16.sl
+│   │   ├── cleanup_header_remove_underscore.sh
+│   │   ├── clustal_job_v2.sl
+│   │   ├── concat.sl
+│   │   ├── fasta2seq.sh
+│   │   ├── fastq2fasta.sl
+│   │   ├── fastqc.sl
+│   │   ├── filename-2-header.sl
+│   │   ├── filtlong.sl
+│   │   ├── flye2racon.sl
+│   │   ├── flye_no_gen_i5.sl
+│   │   ├── fq2fna-checkpoint.sl
+│   │   ├── fq2fna.sl
+│   │   ├── fq2fna_v2.sl
+│   │   ├── fq2fnab-checkpoint.sl
+│   │   ├── fq2fnab.sl
+│   │   ├── fq2fqc-checkpoint.sl
+│   │   ├── fq2fqc.sl
+│   │   ├── fq2fqc_2.sl
+│   │   ├── fq2k-checkpoint.sl
+│   │   ├── fq2k.sl
+│   │   ├── fq2k1.sl
+│   │   ├── fq2k2-checkpoint.sl
+│   │   ├── fq2k2.sl
+│   │   ├── fq2k3.sl
+│   │   ├── fq2k4.sl
+│   │   ├── fq2k5.sl
+│   │   ├── fq2k6.sl
+│   │   ├── fq2k_2022-11-05.sl
+│   │   ├── fq2k_all.sl
+│   │   ├── fq2k_nano.sl
+│   │   ├── fqc2mqc-checkpoint.sl
+│   │   ├── fqc2mqc.sl
+│   │   ├── gc-content.sl
+│   │   ├── guppy_basecaller.sl
+│   │   ├── human_mask.sl
+│   │   ├── idba-checkpoint.sl
+│   │   ├── idba2-checkpoint.sl
+│   │   ├── idba2.sl
+│   │   ├── idbaud_assembly.sl
+│   │   ├── infernal.sl
+│   │   ├── insert_lines.sl
+│   │   ├── k2b-checkpoint.sl
+│   │   ├── k2b.sl
+│   │   ├── k2b161221-checkpoint.sl
+│   │   ├── k2b161221.sl
+│   │   ├── k2b2-checkpoint.sl
+│   │   ├── k2b2.sl
+│   │   ├── k2b2022-11-05.sl
+│   │   ├── k2b2022-11-12.sl
+│   │   ├── k2fmc-checkpoint.sl
+│   │   ├── k2fmc.sl
+│   │   ├── k2rename.sl
+│   │   ├── kd-16.sl
+│   │   ├── kd.sl
+│   │   ├── kd2.sl
+│   │   ├── kd_2022-10-12_all.sl
+│   │   ├── kd_2022-10-12_hu.sl
+│   │   ├── kd_2022-10-12_hu_plas.sl
+│   │   ├── kneaddata.sl
+│   │   ├── kraken12-checkpoint.sl
+│   │   ├── kraken12.sl
+│   │   ├── kraken2-checkpoint.sl
+│   │   ├── kraken2.sl
+│   │   ├── kraken2_210921.sl
+│   │   ├── kraken2_210921b.sl
+│   │   ├── kraken2fqq.sl
+│   │   ├── kraken3-checkpoint.sl
+│   │   ├── kraken3.sl
+│   │   ├── kreport2mpa.sl
+│   │   ├── make-db.sl
+│   │   ├── map-back-to-raw-reads.sl
+│   │   ├── map-back-to-raw-reads_chr1.sl
+│   │   ├── map-back-to-raw-reads_chr2.sl
+│   │   ├── map-back-to-raw-reads_chr3.sl
+│   │   ├── mauve_rename.sl
+│   │   ├── medaka.sl
+│   │   ├── merge_annotations.sl
+│   │   ├── merge_gff.sl
+│   │   ├── merge_gffs.sl
+│   │   ├── metabat.sl
+│   │   ├── metaxa.sl
+│   │   ├── metaxa_flye.sl
+│   │   ├── metaxa_loop.sl
+│   │   ├── metaxa_loop_v2.sl
+│   │   ├── metaxa_original_fnas.sl
+│   │   ├── metaxa_v2-2.sl
+│   │   ├── metaxa_v2.sl
+│   │   ├── miniBUSCO.sl
+│   │   ├── minimap-racon.sl
+│   │   ├── minipolish.sl
+│   │   ├── minipolish2.sl
+│   │   ├── mm_no_hu.sl
+│   │   ├── mummer.sl
+│   │   ├── mummer_bon.sl
+│   │   ├── nanofilt.sl
+│   │   ├── no_meta.sl
+│   │   ├── nucmcer2_2.sl
+│   │   ├── nucmcer_agv_bo.sl
+│   │   ├── nucmer.sl
+│   │   ├── nucmer2y.sl
+│   │   ├── nucmer3.sl
+│   │   ├── nucmer_A.sl
+│   │   ├── nucmer_bon.sl
+│   │   ├── nucmer_hay.sl
+│   │   ├── old_9-prodigal.sl
+│   │   ├── ont-gupp-gpu-sup.sl
+│   │   ├── ont-guppy-gpu.sl
+│   │   ├── ont-guppy-gpu_sup.sl
+│   │   ├── ont-guppy-sup.sl
+│   │   ├── picard.sl
+│   │   ├── picard_CD1.sl
+│   │   ├── plcard_CD1.sl
+│   │   ├── prep-db.sl
+│   │   ├── prep-uniprot.sl
+│   │   ├── pro_mauve.sl
+│   │   ├── pro_mauve_ma.sl
+│   │   ├── process_and_rename_fasta.sh
+│   │   ├── prod.sl
+│   │   ├── prod_checkM_v2.sl
+│   │   ├── prodigal-prokka.sl
+│   │   ├── prodigal-prokka_ma1263_1.sl
+│   │   ├── prodigal-prokka_original.sl
+│   │   ├── prodigal.sl
+│   │   ├── prodigal_4_loriginal_fnas.sl
+│   │   ├── prodigal_4_ma1264_1_4_pseudo_fna.sl
+│   │   ├── prodigal_checkM.sl
+│   │   ├── prodigal_kv15_Pseudo_aero.sl
+│   │   ├── prodigal_loop_v15.sl
+│   │   ├── prodigal_loop_v4.sl
+│   │   ├── prodigal_loop_v5.sl
+│   │   ├── prodigal_ma625.sl
+│   │   ├── prodigal_v10_general_use.sl
+│   │   ├── prodigal_v2-240522.sl
+│   │   ├── prodigal_v2.sl
+│   │   ├── prodigal_v3.sl
+│   │   ├── prog_arrary_v7_functioning.sl
+│   │   ├── prog_arrary_v7_functioning240527.sl
+│   │   ├── prog_array_v7_24-08-10.sl
+│   │   ├── prog_mauve_24-08-10.sl
+│   │   ├── prog_mauve_array_24-08-10.sl
+│   │   ├── prog_mauve_dynamic_array.sl
+│   │   ├── prog_mauve_dynamic_array_24-08-10.sl
+│   │   ├── prog_mauve_v2.sl
+│   │   ├── prokka-prodigal.sl
+│   │   ├── prokka_array_v17.sl
+│   │   ├── prokka_barrnap_v12.sl
+│   │   ├── prokka_general_use_fail_safe.sl
+│   │   ├── prokka_local.sl
+│   │   ├── prokka_loop_v3.sl
+│   │   ├── prokka_loop_v4.sl
+│   │   ├── prokka_loop_v4_more_pbs.sl
+│   │   ├── prokka_loop_v4_staph.sl
+│   │   ├── prokka_v10.sl
+│   │   ├── prokka_v11_w_barrnap.sl
+│   │   ├── prokka_v12.sl
+│   │   ├── prokka_v13.sl
+│   │   ├── prokka_v13_Ps_aero.sl
+│   │   ├── prokka_v13_ma.sl
+│   │   ├── prokka_v14.sl
+│   │   ├── prokka_v14_general_use.sl
+│   │   ├── prokka_v14_remaining.sl
+│   │   ├── prokka_v15.sl
+│   │   ├── prokka_v15_array.sl
+│   │   ├── prokka_v16_array.sl
+│   │   ├── prokka_v18_array.sl
+│   │   ├── prokka_v3.sl
+│   │   ├── prokka_v5.sl
+│   │   ├── prokka_v5_635.sl
+│   │   ├── prokka_v6-240522.sl
+│   │   ├── prokka_v6.sl
+│   │   ├── prokka_v9.sl
+│   │   ├── pseudo-prokka.sl
+│   │   ├── pseudo_scrape-works.sh
+│   │   ├── pseudofinder.sl
+│   │   ├── pseudofinder_AGRI.sl
+│   │   ├── pseudofinder_general_use.sl
+│   │   ├── pseudofinder_general_use_v8.sl
+│   │   ├── pseudofinder_loop_v3.sl
+│   │   ├── pseudofinder_loop_v4.sl
+│   │   ├── pseudofinder_loop_v6.sl
+│   │   ├── pseudofinder_loop_v7.sl
+│   │   ├── pseudofinder_loop_v7_635.sl
+│   │   ├── pseudofinder_loop_v7_ag.sl
+│   │   ├── pseudofinder_loop_v7_more_pbs.sl
+│   │   ├── pseudofinder_ma.sl
+│   │   ├── pseudofinder_v15_array.sl
+│   │   ├── pseudofinder_v16_array.sl
+│   │   ├── pseudofinder_v17_array.sl
+│   │   ├── pseudofinder_v8.sl
+│   │   ├── quast.sl
+│   │   ├── quast2.sl
+│   │   ├── rRNA_count_v3.sh
+│   │   ├── raco-minimap.sl
+│   │   ├── racon-minimap.sl
+│   │   ├── raory.sl
+│   │   ├── raven.sl
+│   │   ├── rename.sl
+│   │   ├── rename2.sl
+│   │   ├── rename_2_num_seq.sl
+│   │   ├── rename_fasta_headers.sh
+│   │   ├── rerun_missing_combinations.sl
+│   │   ├── rev-comp.sl
+│   │   ├── rn2.sl
+│   │   ├── rn3.sl
+│   │   ├── rn4.sl
+│   │   ├── roary-1.sl
+│   │   ├── roary-2.sl
+│   │   ├── roary_1_n_2.sl
+│   │   ├── roary_1_n_2_v2.sl
+│   │   ├── roary_1_n_2_v3.sl
+│   │   ├── roary_1_n_2_v4.sl
+│   │   ├── roary_analysis_R.sl
+│   │   ├── rsync.sl
+│   │   ├── run-null-model.sl
+│   │   ├── run-null-model_v10_20_cores.sl
+│   │   ├── run-null-model_v2.sl
+│   │   ├── run-null-model_v3.sl
+│   │   ├── run-null-model_v4.sl
+│   │   ├── run-null-model_v6.sl
+│   │   ├── run-null-model_v8.sl
+│   │   ├── run-null-model_v9-50_cores.sl
+│   │   ├── run-stegen_bNTI.sl
+│   │   ├── run-stegen_bNTI_100_cores.sl
+│   │   ├── samtools_MD.sl
+│   │   ├── scrape_v4.sh
+│   │   ├── self_nucmer.sl
+│   │   ├── seq2fasta.sh
+│   │   ├── snakefile.sl
+│   │   ├── snakefileMamba.sl
+│   │   ├── spades-checkpoint.sl
+│   │   ├── spades.sl
+│   │   ├── spades1-Copy1-checkpoint.sl
+│   │   ├── spades1-Copy1.sl
+│   │   ├── spades2.sl
+│   │   ├── spadess_v3.sl
+│   │   ├── split-at-bp-posn.sl
+│   │   ├── step_3_tabulate_genes_present-b4-concatn.sh
+│   │   ├── step_5_strip_concatenate_read.sh
+│   │   ├── step_7_clustal_job.sl
+│   │   ├── tRNAscan_v2.sl
+│   │   ├── tc.sl
+│   │   ├── tc_b.sl
+│   │   ├── test_gpu.sl
+│   │   ├── trimm.sl
+│   │   ├── trimmomatic-checkpoint.sl
+│   │   ├── trimmomatic.sl
+│   │   ├── tryClu_v2.sl
+│   │   ├── tryClust.sl
+│   │   ├── tryClust2.sl
+│   │   ├── tryClust_v2.sl
+│   │   ├── tryConsensus.sl
+│   │   ├── tryDots.sl
+│   │   ├── tryDots_cl3.sl
+│   │   ├── tryFRR.sl
+│   │   ├── tryFRR_v10.sl
+│   │   ├── tryFRR_v9.sl
+│   │   ├── tryMDK_v1.sl
+│   │   ├── tryMSA_cl2.sl
+│   │   ├── tryMSA_v1.sl
+│   │   ├── tryPart.sl
+│   │   ├── tryR.sl
+│   │   ├── tryREC_clust_2_v3.sl
+│   │   ├── tryRec_clu2_v2.sl
+│   │   ├── tryRec_v2.sl
+│   │   ├── tryRec_v3.sl
+│   │   ├── trycyc_subset.sl
+│   │   ├── trycycler-ass.sl
+│   │   ├── trycycler06_07_09.sl
+│   │   ├── trycycler2023-01-21.sl
+│   │   ├── trycycler2023-02-02.sl
+│   │   ├── trycycler_01.sl
+│   │   ├── trycycler_01_06.sl
+│   │   ├── trycycler_01_06_no_gen.sl
+│   │   ├── trycycler_01_12.sl
+│   │   ├── trycycler_01_g4_gen.sl
+│   │   ├── trycycler_01_no_gen.sl
+│   │   ├── trycycler_07_06_no_gen.sl
+│   │   ├── trycycler_07_12.sl
+│   │   ├── trycycler_08_04.sl
+│   │   ├── trycyler08.sl
+│   │   ├── trycyler08_NG.sl
+│   │   ├── trycyler09.sl
+│   │   ├── trycyler12.sl
+│   │   ├── trycyler12_NG.sl
+│   │   ├── uniprot_makedb.sl
+│   │   └── updated_Johns_prog_mauve_seq24.sl
+│   ├── Python
+│   │   ├── bracken-combine.py
+│   │   ├── brackencombine.py
+│   │   ├── combine_kreports-checkpoint.py
+│   │   ├── combine_kreports.py
+│   │   ├── counting_rRNAs_from_rnnamer.py
+│   │   ├── fetch_24-10-29.py
+│   │   ├── fetch_data.py
+│   │   ├── fetch_fna_from_ncbi.py
+│   │   ├── fetch_ncbi_data.py
+│   │   ├── fetch_ncbi_ref_data_from_list.py
+│   │   ├── fetch_ref_data.py
+│   │   ├── fetch_species.py
+│   │   ├── fetch_species_2.py
+│   │   ├── fetch_species_v2.py
+│   │   ├── knead_data.py
+│   │   ├── kraken-combine.py
+│   │   ├── kraken_biom.py
+│   │   ├── krakencombine.py
+│   │   ├── nanopore_scrape.py
+│   │   ├── nanopore_scrape_tc-rss.py
+│   │   ├── nanopore_scrape_v2.py
+│   │   ├── read_count_table.py
+│   │   ├── reannotate.py
+│   │   ├── ref_species_fetch.py
+│   │   ├── reheader_fasta.py
+│   │   ├── xmfa_combiner.py
+│   │   └── xmfa_to_fasta_script.py
+│   └── TryCycler_Assembly-Annotation
+│       ├── 1-trySRS.sl
+│       ├── 10-metaxa.sl
+│       ├── 11-checkm_v3.sl
+│       ├── 12-prokka_v2.sl
+│       ├── 13-blastn_v2.sl
+│       ├── 13_A-mkBLASTdb.sl
+│       ├── 14-DRAM.sl
+│       ├── 16-nesi-blast.sl
+│       ├── 17-DRAM-distall.sl
+│       ├── 2-try-go.sl
+│       ├── 2-tryFRR_go.sl
+│       ├── 2-tryF_set1.sl
+│       ├── 2-tryF_set1A.sl
+│       ├── 2-tryF_set1B.sl
+│       ├── 2-tryF_set2.sl
+│       ├── 2-tryRR_set2.sl
+│       ├── 2-tryRR_set3.sl
+│       ├── 21-prokka-4-pseudofinder.sl
+│       ├── 21-prokka-4-pseudofinder_v2.sl
+│       ├── 21-prokka-4-pseudofinder_v3.sl
+│       ├── 22-prkka_v5.sl
+│       ├── 22-prokka_v13.sl
+│       ├── 23-pseudofinder.sl
+│       ├── 24-split-n-sort.sl
+│       ├── 24-split-n-sort_PBONN.sl
+│       ├── 24-split-n-sort_PHAYL.sl
+│       ├── 25-split-n-sort.sl
+│       ├── 27-core.sl
+│       ├── 27-intact-genes.sl
+│       ├── 28-roary.sl
+│       ├── 29-roary-pan-genome.sl
+│       ├── 3-tryClust.sl
+│       ├── 3-tryCluster.sl
+│       ├── 31-blastn-clone-v-clone_v2.sl
+│       ├── 34-blast-flye-v-trycyler.sl
+│       ├── 4-tryDot.sl
+│       ├── 4-tryRecon.sl
+│       ├── 4-tryRecon_v1.sl
+│       ├── 5-tryMSA.sl
+│       ├── 6-tryPart.sl
+│       ├── 6-tryPartition.sl
+│       ├── 7-tryConsensus.sl
+│       ├── 8-tryMDK.sl
+│       ├── 9-prodigal.sl
+│       └── 9-prodigal_v5.sl
+├── Data
+│   ├── BC_PS.rds
+│   ├── CSGA.zip
+│   ├── Gbc_meta.tsv
+│   ├── Metadata
+│   │   ├── 1155_and_up.txt
+│   │   ├── Archive_Soil_Samples_2023-05-25.txt
+│   │   ├── Archive_Soil_Samples_Master_2023-05-20-formatted.txt
+│   │   ├── GPS_converted_2023-06-MLBS_20230621115705-16023-data.txt
+│   │   ├── GPS_visualizer_elevation.tsv
+│   │   ├── KF_wide.csv
+│   │   ├── first-half-of-2014_30min.tsv
+│   │   ├── first-half-of-2014_30min.xlsx
+│   │   ├── mid-2014-pres-daily.tsv
+│   │   ├── mid-2014-pres-daily.xlsx
+│   │   ├── noaa_met.csv.zip
+│   │   └── soil_sheet_meta.tsv
+│   ├── NMDS_test_data_tbl_wide_meta.tsv
+│   ├── Null_Dataset_2k_filter.tsv
+│   ├── OTU_test_PS.rds
+│   ├── Phylo_trees
+│   │   ├── Acinetobacter.aln
+│   │   ├── Acinetobacter_guidetree.dnd
+│   │   ├── Paraburkholderia.aln
+│   │   ├── Pseudomonas.aln
+│   │   ├── Pseudomonas_guidetree.dnd
+│   │   ├── Staph.aln
+│   │   └── Staph_guidetree.dnd
+│   ├── Roary_data
+│   │   ├── Roary_Acinetobacter
+│   │   ├── Roary_Acinetobacter.zip
+│   │   ├── Roary_Pb_ag
+│   │   ├── Roary_Pb_ag.zip
+│   │   ├── Roary_Pseudomonas
+│   │   ├── Roary_Pseudomonas.zip
+│   │   ├── Roary_staph
+│   │   └── Roary_staph.zip
+│   ├── SUM_KF_metedata.tsv
+│   ├── Spatial_distance_matrix.tsv
+│   ├── Virulence_Factors
+│   │   ├── Figure_31_B_All_Factors_Pseudomonas_Virulence_Factors.tsv
+│   │   ├── MA_clone_Pseudomonas_Virulence_Factors.tsv
+│   │   ├── Presence_Absence_Heatmap_Enhanced_with_Custom_Colors.pdf
+│   │   ├── Presence_Absence_Heatmap_No_White_Final.pdf
+│   │   ├── Processed_Pseudomonas_Virulence_Factors.tsv
+│   │   ├── Pseudomonas_Virulence_Factors.tsv
+│   │   ├── VFDB_ma102.txt
+│   │   ├── VFDB_ma1263_1.txt
+│   │   ├── VFDB_ma1263_3.txt
+│   │   ├── VFDB_ma1265.txt
+│   │   ├── Virulence_factors_Acinetobacter.Rmd
+│   │   ├── Virulence_factors_Ps_b.Rmd
+│   │   ├── Virulence_factors_Staph.Rmd
+│   │   ├── ma102_ma1265_VF.ai
+│   │   ├── ma102_ma1265_VF.pdf
+│   │   ├── ma1263_1_VF.ai
+│   │   ├── ma1263_1_VF.pdf
+│   │   └── ma1263_3_VF.pdf
+│   ├── bracken-combine_2022-11-07.tsv
+│   ├── bracken-combine_2022-11-07.tsv.zip
+│   ├── expanded_gen_pal.tsv
+│   ├── expanded_gen_pal_2.txt
+│   ├── full_bNTI.tsv
+│   ├── full_data_merged.tsv
+│   ├── full_data_merged.xlsx
+│   ├── genomic_stats
+│   │   ├── 5s_counts.tsv
+│   │   ├── barrnap_rRNA.tsv
+│   │   ├── barrnap_rRNA_details.tsv
+│   │   ├── burkholderia_stats.tsv
+│   │   ├── checkm_summary.tsv
+│   │   ├── checkm_summary_v2.tsv
+│   │   ├── combined_prokka_summary_table.txt
+│   │   ├── full_data_merged.tsv
+│   │   ├── gc_content.tsv
+│   │   ├── genomics_data.tsv
+│   │   ├── prokka_summary_table.tsv
+│   │   ├── prokka_summary_table_2.tsv
+│   │   ├── pseudofinder_statistics_summary.tsv
+│   │   └── ref_data_summary.tsv
+│   ├── genomic_stats.zip
+│   └── genomics_data.tsv
+├── Figures_output
+│   ├── Figure_10
+│   │   └── Figure_11_alpha_diversity.pdf
+│   ├── Figure_11
+│   │   ├── Figure_11_All.pdf
+│   │   ├── Figure_14_MLBS.pdf
+│   │   ├── MLBS_heatmap_bray_curtis.pdf
+│   │   ├── MLBS_heatmap_spatial.pdf
+│   │   ├── MLBS_pred_vs_actual_plot.pdf
+│   │   ├── MLBS_qq_plot.pdf
+│   │   ├── MLBS_residual_plot.pdf
+│   │   ├── MLBS_scatter_plot.pdf
+│   │   └── MLBS_scatter_plot_log_x.pdf
+│   ├── Figure_12
+│   │   ├── Combined_Plots
+│   │   ├── MLBS_Matrices
+│   │   ├── Rel_abundance
+│   │   ├── Total_abundance
+│   │   └── total_v_uc
+│   ├── Figure_13
+│   │   ├── NMDS_TimePoints_ordination_plot_with_arrows.pdf
+│   │   └── NMDS_TimePoints_variance_analysis_results.tsv
+│   ├── Figure_14
+│   │   ├── NMDS
+│   │   ├── b-NTI
+│   │   └── zeta_div
+│   ├── Figure_16
+│   │   ├── Acinetobacter_Elastic_Net_summary.csv
+│   │   ├── Acinetobacter_GBM_summary.csv
+│   │   ├── Acinetobacter_GLM_summary.csv
+│   │   ├── Acinetobacter_combined_heatmap.pdf
+│   │   ├── Bacillus_Elastic_Net_summary.csv
+│   │   ├── Bacillus_GBM_summary.csv
+│   │   ├── Bacillus_GLM_summary.csv
+│   │   ├── Bacillus_combined_heatmap.pdf
+│   │   ├── Bradyrhizobium_Elastic_Net_summary.csv
+│   │   ├── Bradyrhizobium_GBM_summary.csv
+│   │   ├── Bradyrhizobium_GLM_summary.csv
+│   │   ├── Bradyrhizobium_combined_heatmap.pdf
+│   │   ├── Chlamydia_Elastic_Net_summary.csv
+│   │   ├── Chlamydia_GBM_summary.csv
+│   │   ├── Chlamydia_GLM_summary.csv
+│   │   ├── Chlamydia_combined_heatmap.pdf
+│   │   ├── Chryseobacterium_Elastic_Net_summary.csv
+│   │   ├── Chryseobacterium_GBM_summary.csv
+│   │   ├── Chryseobacterium_GLM_summary.csv
+│   │   ├── Chryseobacterium_combined_heatmap.pdf
+│   │   ├── Cutibacterium_Elastic_Net_summary.csv
+│   │   ├── Cutibacterium_GBM_summary.csv
+│   │   ├── Cutibacterium_GLM_summary.csv
+│   │   ├── Cutibacterium_combined_heatmap.pdf
+│   │   ├── EN_Acinetobacter_Heatmap.pdf
+│   │   ├── EN_Bacillus_Heatmap.pdf
+│   │   ├── EN_Bradyrhizobium_Heatmap.pdf
+│   │   ├── EN_Chlamydia_Heatmap.pdf
+│   │   ├── EN_Chryseobacterium_Heatmap.pdf
+│   │   ├── EN_Cutibacterium_Heatmap.pdf
+│   │   ├── EN_Methylobacterium_Heatmap.pdf
+│   │   ├── EN_Mycobacteroides_Heatmap.pdf
+│   │   ├── EN_Paraburkholderia_Heatmap.pdf
+│   │   ├── EN_Pseudomonas_Heatmap.pdf
+│   │   ├── EN_Ralstonia_Heatmap.pdf
+│   │   ├── Methylobacterium_Elastic_Net_summary.csv
+│   │   ├── Methylobacterium_GBM_summary.csv
+│   │   ├── Methylobacterium_GLM_summary.csv
+│   │   ├── Methylobacterium_combined_heatmap.pdf
+│   │   ├── Model_Fit_Comparison.pdf
+│   │   ├── Mycobacteroides_Elastic_Net_summary.csv
+│   │   ├── Mycobacteroides_GBM_summary.csv
+│   │   ├── Mycobacteroides_GLM_summary.csv
+│   │   ├── Mycobacteroides_combined_heatmap.pdf
+│   │   ├── Paraburkholderia_Elastic_Net_summary.csv
+│   │   ├── Paraburkholderia_GBM_summary.csv
+│   │   ├── Paraburkholderia_GLM_summary.csv
+│   │   ├── Paraburkholderia_combined_heatmap.pdf
+│   │   ├── Pseudomonas_Elastic_Net_summary.csv
+│   │   ├── Pseudomonas_GBM_summary.csv
+│   │   ├── Pseudomonas_GLM_summary.csv
+│   │   ├── Pseudomonas_combined_heatmap.pdf
+│   │   ├── Ralstonia_Elastic_Net_summary.csv
+│   │   ├── Ralstonia_GBM_summary.csv
+│   │   ├── Ralstonia_GLM_summary.csv
+│   │   └── Ralstonia_combined_heatmap.pdf
+│   ├── Figure_17
+│   │   ├── Figure_17_Paraburkholderia_bootstrapped_consensus_tree.nwk
+│   │   ├── Figure_17_Paraburkholderia_bootstrapped_tree_plot.pdf
+│   │   └── Figure_17_Paraburkholderia_fitted_tree_file.nwk
+│   ├── Figure_18
+│   │   ├── Figure_18_B1_A-D.ai
+│   │   ├── Figure_18_B1_A-D.pdf
+│   │   ├── Figure_18_B2_E-H.ai
+│   │   ├── Figure_18_B2_E-H.pdf
+│   │   ├── Figure_18_C1_I-L.ai
+│   │   ├── Figure_18_C1_I-L.pdf
+│   │   ├── NMDS
+│   │   ├── Rel_abund_B1.pdf
+│   │   ├── Stacked_Bar_Relative_Abundance_fixed_x_yA1.pdf
+│   │   ├── Stacked_Bar_Relative_Abundance_fixed_x_yA2.pdf
+│   │   ├── Stacked_Bar_Relative_Abundance_fixed_x_yB1.pdf
+│   │   ├── Stacked_Bar_Relative_Abundance_fixed_x_yB2.pdf
+│   │   ├── Stacked_Bar_Relative_Abundance_fixed_x_yC1.pdf
+│   │   ├── Stacked_Bar_Relative_Abundance_fixed_x_yC2.pdf
+│   │   ├── Stacked_Bar_Relative_Abundance_fixed_x_yD1.pdf
+│   │   ├── Stacked_Bar_Relative_Abundance_fixed_x_yD2.pdf
+│   │   ├── b-NTI
+│   │   ├── plots
+│   │   └── zeta_diversity_plots
+│   ├── Figure_19
+│   │   ├── Figure_19_A_Pb_all.pdf
+│   │   ├── Figure_19_B_Pb_roary_filtered.pdf
+│   │   ├── Figure_19_C_Pb_roary_filtered.pdf
+│   │   ├── Figure_19_Paraburkholderia_bootstrapped_consensus_tree.nwk
+│   │   ├── Figure_19_Paraburkholderia_fitted_tree_file.nwk
+│   │   └── Figure_19_Pb_fitted_tree_file.nwk
+│   ├── Figure_20
+│   │   ├── Figure_20_Staph_bootstrapped_consensus_tree_1000_prct.nwk
+│   │   ├── Figure_20_Staph_bootstrapped_ml_tree_plot_1000_prct.pdf
+│   │   └── Figure_20_Staphylococcus_fitted_tree_file.nwk
+│   ├── Figure_21
+│   │   ├── Figure_21_A_ALL_genomic_data_staphylococcus.pdf
+│   │   └── Figure_21_B_Roary_differences_staphylococcus_sml_b.pdf
+│   ├── Figure_26
+│   │   ├── MA1263_1_Presence_Absence_Heatmap_No_White_Final.pdf
+│   │   └── MA1263_1_clone_Staphylococcus_Virulence_Factors.tsv
+│   ├── Figure_27
+│   │   ├── Figure_27_Pseudomonas_bootstrapped_consensus_tree_1000_prct.nwk
+│   │   ├── Figure_27_Pseudomonas_bootstrapped_ml_tree_plot_1000_prct.pdf
+│   │   └── Figure_27_Pseudomonas_fitted_tree_file.nwk
+│   ├── Figure_28
+│   │   ├── Figure_28_A_ALL_genomic_data_Pseudomonas.pdf
+│   │   └── Figure_30_B_genomic_data_filtered_Pseudomonas.pdf
+│   ├── Figure_29
+│   │   ├── Figure_31_B_Pseudomonas_VFs_Common_with_MA_clones.pdf
+│   │   └── MA_clone_Pseudomonas_Virulence_Factors.tsv
+│   ├── Figure_30
+│   │   ├── Figure_30_Acinetobacter_bootstrapped_consensus_tree.nwk
+│   │   └── Figure_30_Acinetobacter_bootstrapped_tree_plot.pdf
+│   ├── Figure_31
+│   │   ├── Figure_30_B_genomic_data_filtered_Acinetobacter.pdf
+│   │   ├── Figure_30_C_genomic_data_filtered_DIFFERENCES_Acinetobacter.pdf
+│   │   ├── Figure_30_D_genomic_data_filtered_A_pittii_and_MA1263_3.pdf
+│   │   └── Figure_31_A_ALL_genomic_data_Acinetobacter.pdf
+│   ├── Figure_34
+│   │   ├── Figure_34_Acinetobacter_VFs.pdf
+│   │   ├── MA_clone_Acinetobacter_Virulence_Factors.tsv
+│   │   ├── genomic_data_Acinetobacter.pdf
+│   │   └── genomic_data_filtered_diff_fewer_2 x Acinetobacter.pdf
+│   ├── Figure_4
+│   │   └── Combined_NE_MLBS_maps_inset_v5.pdf
+│   └── Figure_9
+│       └── absolute_classified_vs_unclassified
+├── Metagenomics
+├── Other_Scripts
+│   ├── Genomics
+│   │   └── CGNA_scripts_and_pipeline_example
+│   └── NeSI_scripts_microbiome.txt
+├── R_Scripts
+│   ├── Figure_04_US_map_gps.Rmd
+│   ├── Figure_09_and_12_rel_tot_abund_v2.Rmd
+│   ├── Figure_10_alpha_diversity_v2.Rmd
+│   ├── Figure_11_BC_spatial_dist.Rmd
+│   ├── Figure_13_and_14_NMDS_single_sites_over_time_v2.Rmd
+│   ├── Figure_14_bNTI.Rmd
+│   ├── Figure_14_zeta_div.Rmd
+│   ├── Figure_15_Upset_plot_and_Core_microbiome_v2.Rmd
+│   ├── Figure_16_Three_models_microbiome_interactions_All.Rmd
+│   ├── Figure_17_Paraburkholderia_phytree_bs1000_GTR.Rmd
+│   ├── Figure_19_Roary_gene_absence_presence_Paraburkholderia.Rmd
+│   ├── Figure_20_Staphylococcus_phytree_bs1000_GTR.Rmd
+│   ├── Figure_21_Roary_presence_absence_Staph.Rmd
+│   ├── Figure_26_Staphylococcus_VFs.Rmd
+│   ├── Figure_27_Pseudomoas_phytree_bs1000_GTR.Rmd
+│   ├── Figure_28_Roary_Pseuodomoas_24-06-21.Rmd
+│   ├── Figure_29_Pseudomonas_VFs.Rmd
+│   ├── Figure_30_Acinetobacter_phytree_bs1000_GTR.Rmd
+│   ├── Figure_31_Roary_Acinteobacter.Rmd
+│   ├── Figure_34_Acinetobacter_VFs.Rmd
+│   ├── Genomics_stats_conglomerate.Rmd
+│   ├── SUM-meterological-2024-01-05.Rmd
+│   ├── Spatial_distance_Matrix.Rmd
+│   └── stegen_NTI_100_cores_v2.Rscript
+├── Reference_data.xlsx
+├── directory_dir_tree.txt
+├── directory_tree.txt
+└── ref_summary_2.tsv

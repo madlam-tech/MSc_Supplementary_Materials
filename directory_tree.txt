@@ -1,0 +1,54 @@
+.
+├── BATCH-scripts
+│   ├── Other_Batch
+│   ├── Python
+│   └── TryCycler_Assembly-Annotation
+├── Data
+│   ├── Metadata
+│   ├── Phylo_trees
+│   ├── Roary_data
+│   │   ├── Roary_Acinetobacter
+│   │   ├── Roary_Pb_ag
+│   │   ├── Roary_Pseudomonas
+│   │   └── Roary_staph
+│   ├── Virulence_Factors
+│   └── genomic_stats
+├── Figures_output
+│   ├── Figure_10
+│   ├── Figure_11
+│   ├── Figure_12
+│   │   ├── Combined_Plots
+│   │   ├── MLBS_Matrices
+│   │   ├── Rel_abundance
+│   │   ├── Total_abundance
+│   │   └── total_v_uc
+│   ├── Figure_13
+│   ├── Figure_14
+│   │   ├── NMDS
+│   │   ├── b-NTI
+│   │   └── zeta_div
+│   ├── Figure_16
+│   ├── Figure_17
+│   ├── Figure_18
+│   │   ├── NMDS
+│   │   ├── b-NTI
+│   │   ├── plots
+│   │   └── zeta_diversity_plots
+│   ├── Figure_19
+│   ├── Figure_20
+│   ├── Figure_21
+│   ├── Figure_26
+│   ├── Figure_27
+│   ├── Figure_28
+│   ├── Figure_29
+│   ├── Figure_30
+│   ├── Figure_31
+│   ├── Figure_34
+│   ├── Figure_4
+│   └── Figure_9
+│       └── absolute_classified_vs_unclassified
+├── Metagenomics
+├── Other_Scripts
+│   └── Genomics
+│       └── CGNA_scripts_and_pipeline_example
+└── R_Scripts
