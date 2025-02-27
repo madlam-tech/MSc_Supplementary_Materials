@@ -1,4 +1,7 @@
-All code for the metagenomic and genomic studies for the masters thesis is contained herein
+VIEW AS CODE
+
+
+All code for the metagenomic and genomic studies for the masters' thesis is contained herein
 
 Data for the all of metagenomic studies is in the Data directory
 
